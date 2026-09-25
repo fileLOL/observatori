@@ -43,6 +43,25 @@ async function init() {
     clearTimeout(timer);
     timer = setTimeout(() => { state.query = e.target.value.trim(); state.limit = pageSize(); renderNews(); }, 160);
   });
+  initNavToggle();
+}
+
+function initNavToggle() {
+  const top = $('.top');
+  const toggle = $('.nav-toggle');
+  const nav = $('#navPrincipal');
+  if (!top || !toggle || !nav) return;
+  const setOpen = open => {
+    top.classList.toggle('nav-open', open);
+    toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+  };
+  const listen = (target, type, handler) => {
+    if (target && typeof target.addEventListener === 'function') target.addEventListener(type, handler);
+  };
+  listen(toggle, 'click', () => setOpen(!top.classList.contains('nav-open')));
+  listen(nav, 'click', e => { if (e.target.closest('a')) setOpen(false); });
+  listen(document, 'keydown', e => { if (e.key === 'Escape') setOpen(false); });
+  listen(globalThis.window, 'resize', () => { if (globalThis.innerWidth > 850) setOpen(false); });
 }
 
 function matches(item) {
