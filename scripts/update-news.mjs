@@ -407,7 +407,7 @@ async function main() {
   const withParties = data.news.filter(item => item.parties && item.parties.length).length;
   console.log(`Feeds correctes: ${okCount}/${feeds.length}`);
   console.log(`Mode: ${data.mode} · pàgina de ${data.pageSize} notícies`);
-  console.log(`Moviments: ${(data.movements || []).length} · enllaços: ${(data.movements || []).reduce((total, m) => total + (m.links || []).length, 0)}`);
+  console.log(`Moviments: ${(data.movements || []).length} · entitats: ${(data.movements || []).reduce((total, m) => total + (m.groups || []).length, 0)} · referències: ${(data.referencias || []).length}`);
   console.log(`Notícies: ${data.news.length} (Catalunya: ${catalunyaItems.length}, Altres: ${Math.min(roomForOthers, otherItems.length)}; descartades per antiguitat: ${pruned})`);
   console.log(`Amb posició documentada enllçada: ${linked} · amb partits esmentats: ${withParties}`);
   console.log(`Temàtiques: ${distribution.join(' · ')}`);

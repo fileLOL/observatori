@@ -8,7 +8,7 @@
   "exhaustive": {
     "maxItems": 600,
     "maxAgeDays": 120,
-    "maxOthersRatio": 0.5,
+    "maxOthersRatio": 0.2,
     "pageSize": 48
   },
   "requestTimeoutMs": 20000,
