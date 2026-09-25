@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "note": "Posicions documentades de cada grup parlamentari sobre mesures concretes. Només hi entren VOTACIONS, DOCUMENTS OFICIALS o DECLARACIONS atribuïbles. Per estendre'l: afegeix un objectiu a issues amb paraules-clau i les posicions, i les notícies que hi coincideixin s'hi enllacaran automàticament.",
+  "parties": ["PSC-Units", "Junts", "ERC", "CUP-DT", "Comuns", "PPC", "Vox", "AC"],
+  "values": ["A favor", "En contra", "Abstenció", "No consta"],
+  "aliases": {
+    "PSC-Units": ["PSC-Units", "PSC", "Socialistes"],
+    "Junts": ["Junts per Catalunya", "Junts", "JxC"],
+    "ERC": ["Esquerra Republicana", "ERC"],
+    "CUP-DT": ["CUP-DT", "CUP", "Diluns al Teatre"],
+    "Comuns": ["Catalunya en Comú", "Comuns", "El Món", "Podem"],
+    "PPC": ["Partit Popular", "PPC"],
+    "Vox": ["Vox"],
+    "AC": ["Agrupació Catalana", "Junts per Catalunya AC", "AC"]
+  },
+  "issues": {
+    "rendes-lloguer": {
+      "label": "Contenció de les rendes dels lloguers",
+      "desc": "Validació parlamentària del Decret llei 1/2025 de mesures urgents en matèria de contenció de rendes.",
+      "topic": "Habitatge",
+      "source": "Parlament de Catalunya · Decret llei 1/2025",
+      "url": "https://www.parlament.cat/web/actualitat/noticies/index.html?p_id=277012692",
+      "date": "2025",
+      "keywords": ["rendes", "renda", "lloguer", "lloguers", "llogaters", "llogateres", "llogadora", "desnonament", "desnonaments", "desnonat", "desnonada", "hipoteca", "hipotecari", "alquiler", "alquileres", "preu del lloguer", "increment del lloguer", "pastor", "lloguer il·legal", "pisos buits", "ocupació il·legal"],
+      "positions": {
+        "PSC-Units": "A favor",
+        "Junts": "En contra",
+        "ERC": "A favor",
+        "CUP-DT": "A favor",
+        "Comuns": "A favor",
+        "PPC": "En contra",
+        "Vox": "En contra",
+        "AC": "En contra"
+      }
+    },
+    "lloguer-temporada": {
+      "label": "Regular lloguers de temporada i d'habitacions",
+      "desc": "Moció de 2024: proposta per regular els lloguers d'habitacions i restringir el lloguer de temporada.",
+      "topic": "Habitatge",
+      "source": "Parlament de Catalunya · 07/11/2024",
+      "url": "https://www.parlament.cat/document/actualitat/423097281.pdf",
+      "date": "07/11/2024",
+      "keywords": ["lloguer de temporada", "lloguers de temporada", "turisme", "turístic", "turistes", "airbnb", "pisos turístics", "apartaments", "vacacional", "lloguer d'habitacions", "allotjaments turístics", "ocupació il·legal", "pisos buits", "lloguer il·legal"],
+      "positions": {
+        "PSC-Units": "A favor",
+        "Junts": "A favor",
+        "ERC": "A favor",
+        "CUP-DT": "A favor",
+        "Comuns": "A favor",
+        "PPC": "En contra",
+        "Vox": "En contra",
+        "AC": "En contra"
+      }
+    },
+    "compra-especulativa": {
+      "label": "Compra especulativa d'habitatge",
+      "desc": "Votació de 2024 sobre gravar fiscalment determinades compres especulatives d'habitatge.",
+      "topic": "Habitatge",
+      "source": "Parlament de Catalunya · 07/11/2024",
+      "url": "https://www.parlament.cat/document/actualitat/423097281.pdf",
+      "date": "07/11/2024",
+      "keywords": ["compra especulativa", "especulació immobiliària", "especulació", "especulativa", "especuladors", "plusvalua", "ITE", "impost de transmissions", "grans propietaris", "fons d'inversió", "fons immobiliaris", "immobiliària", "venda d'habitatges", "mercat immobiliari"],
+      "positions": {
+        "PSC-Units": "Abstenció",
+        "Junts": "A favor",
+        "ERC": "A favor",
+        "CUP-DT": "A favor",
+        "Comuns": "A favor",
+        "PPC": "En contra",
+        "Vox": "En contra",
+        "AC": "En contra"
+      }
+    },
+    "pressupostos-2026": {
+      "label": "Pressupostos de la Generalitat per al 2026",
+      "desc": "La Comissió d'Economia i Finances va aprovar el dictamen del projecte de llei de pressupostos amb els vots del PSC-Units, ERC i els Comuns, i els vots contraris de la resta de grups. El Ple encara havia de validar-lo en la votació final.",
+      "topic": "Política",
+      "source": "Parlament de Catalunya · Comissió d'Economia i Finances",
+      "url": "https://www.parlament.cat/web/actualitat/noticies/index.html?p_id=382776329",
+      "date": "30/07/2026",
+      "keywords": ["pressupostos", "pressupost", "pressupostos de la generalitat", "llei d'acompanyament", "esdeves", "hisenda", "IRPF", "IVA", "impostos", "retallades", "tall de pressupost"],
+      "positions": {
+        "PSC-Units": "A favor",
+        "Junts": "En contra",
+        "ERC": "A favor",
+        "CUP-DT": "En contra",
+        "Comuns": "A favor",
+        "PPC": "En contra",
+        "Vox": "En contra",
+        "AC": "En contra"
+      }
+    },
+    "llei-acompanyament-2026": {
+      "label": "Projecte de llei de mesures fiscals i del sector públic per al 2026",
+      "desc": "El projecte de llei d'acompanyament (mesures fiscals, financeres, administratives i del sector públic) va superar el dictamen en comissió amb el suport del PSC-Units, ERC i els Comuns i els vots contraris de la resta de grups.",
+      "topic": "Política",
+      "source": "Parlament de Catalunya · Comissió d'Economia i Finances",
+      "url": "https://www.parlament.cat/web/actualitat/noticies/index.html?p_id=382776329",
+      "date": "30/07/2026",
+      "keywords": ["llei d'acompanyament", "mesures fiscals", "sector públic", "mestres", "funcionaris", "plusos", "retribucions dels empleats públics", "privatització", "pressupostos de la generalitat"],
+      "positions": {
+        "PSC-Units": "A favor",
+        "Junts": "En contra",
+        "ERC": "A favor",
+        "CUP-DT": "En contra",
+        "Comuns": "A favor",
+        "PPC": "En contra",
+        "Vox": "En contra",
+        "AC": "En contra"
+      }
+    },
+    "traspas-immigracio": {
+      "label": "Traspàs de les competències d'immigració a la Generalitat",
+      "desc": "Moció del Parlament per reclamar al Govern de l'Estat el traspàs de les competències d'immigració, amb els permisos de residència, treball i la política d'acollida. El text es va aprovar amb els vots favorables del PSC, Junts, ERC, Comuns, CUP i Aliança Catalana, i els contraris del PP i Vox.",
+      "topic": "Drets humans",
+      "source": "El Món · acta de la sessió del Parlament del 23/10/2025",
+      "url": "https://elmon.cat/politica/parlament/el-parlament-reclama-al-govern-espanyol-el-traspas-de-les-competencies-dimmigracio-1071188",
+      "date": "23/10/2025",
+      "keywords": ["traspàs de les competències", "traspàs de competències", "competències d'immigració", "traspassar competències", "iniciativa legislativa", "llei d'immigració", "regulació de la immigració", "acollida de refugiats", "permisos de residència", "permís de residència", "llei orgànica d'immigració", "Solidaritat amb les personnes refugiades"],
+      "positions": {
+        "PSC-Units": "A favor",
+        "Junts": "A favor",
+        "ERC": "A favor",
+        "CUP-DT": "A favor",
+        "Comuns": "A favor",
+        "PPC": "En contra",
+        "Vox": "En contra",
+        "AC": "A favor"
+      }
+    }
+  }
+}

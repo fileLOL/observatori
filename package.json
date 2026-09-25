@@ -1,0 +1,1 @@
+{"name":"observatori-politiques-catalunya","version":"2.0.0","private":true,"scripts":{"start":"node scripts/serve.mjs","update":"node scripts/update-news.mjs"},"engines":{"node":">=18"}}

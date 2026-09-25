@@ -1,0 +1,183 @@
+{
+  "version": 1,
+  "mode": "exhaustive",
+  "maxItems": 150,
+  "maxAgeDays": 21,
+  "maxOthersRatio": 0.3,
+  "pageSize": 24,
+  "exhaustive": {
+    "maxItems": 600,
+    "maxAgeDays": 120,
+    "maxOthersRatio": 0.5,
+    "pageSize": 48
+  },
+  "requestTimeoutMs": 20000,
+  "minTitleLength": 18,
+  "catalunyaFeeds": [
+    "VilaWeb",
+    "Ara",
+    "La Directa",
+    "Catalunya Diari",
+    "Diari de Barcelona",
+    "Social.cat",
+    "CCOO",
+    "UGT",
+    "CoopCat",
+    "Habicoop"
+  ],
+  "catalunyaKeywords": [
+    "catalunya", "català", "catalana", "catalanes", "catalans", "generalitat", "govern de catalunya",
+    "parlament de catalunya", "diputació de barcelona", "diputació de girona", "diputació de lleida", "diputació de tarragona",
+    "barcelona", "badalona", "sabadell", "terrassa", "l'hospitalet", "hospitalet", "mataro", "mollet del vallès", "sant boi", "sant adrià",
+    "rubí", "vic", "manresa", "figueres", "llançà", "amposta", "reus", "valls", "sitges", "palafrugell", "palamós",
+    "poblenou", "eixample", "gràcia", "sant martí", "nou barris", "sant andreu", "les corts", "sants-montjuïc", "ciutat vella",
+    "horta-guinardó", "sant feliu de llobregat", "vallcarca", "districte de",
+    "girona", "lleida", "tarragona", "roses", "cadaqués", "llucmajor", "manacor", "inca",
+    "llobregat", "cardener", "segrià", "urgell", "noguera", "pallars", "terra alta", "terra baixa", "baix ebre", "alt empordà", "cerdanya",
+    "solsonès", "ripollès", "garrotxa", "la selva", "pla de bages", "segarra", "conca de barberà", "montsià", "matarranya",
+    "delta del llobregat", "delta de l'ebre", "montseny", "guilleries", "pirineu", "cadí", "montsant", "garraf", "alt camp", "maresme", "osona",
+    "vallespir", "pla de l'estany", "parc natural", "espais naturals", "xarxesacatalunya",
+    "el prat", "cornellà", "esplugues", "molins de rei", "sant joan despí", "sant joan de vilatorrada", "castelldefels", "platja d'aro", "llafranc", "lillet"
+  ],
+  "topics": {
+    "Habitatge": [
+      "habitatge", "habitages", "lloguer", "lloguers", "llogatera", "llogaters", "lloguer de temporada",
+      "desnonament", "desnonaments", "desnonat", "desnonada", "allotjament", "immobiliari", "immobiliària",
+      "hipoteca", "hipotecari", "hipoteques", "rendes", "inquilinato", "inquilinos", "vivienda", "alquiler",
+      "alquileres", "desalojo", "inmo", "okupació", "okupacio", "vivenda", "vacancia",
+      "rehabilitació", "rehabilitacio", "obra pública", "construcció", "construccion"
+    ],
+    "Feminismes": [
+      "feminisme", "feminista", "feminismes", "feministes", "violència masclista", "violencia de genero",
+      "violència de gènere", "violencia misogyn", "masclisme", "masclista", "misoginia", "me too", "metoo",
+      "8 de març", "8m", "25n", "25 de novembre", "dona", "dones", "gènere", "genero", "igualtat", "paritat",
+      "violència domèstica", "violencia domestica", "avortament", "abort", "sexualitat", "clima menstrual",
+      "treball de cures", "cuidadores", "violència institucional", "masclisme institucional"
+    ],
+    "LGTBIQ+": [
+      "lgtbi", "lgtb", "lgtbiq", "homofòbia", "homofobia", "lesbiana", "lesbianes", "gai", "gais",
+      "bisexual", "trans", "transsexual", "transsexualitat", "queer", "intersexual", "no binari", "no-binari",
+      "lgtbifòbia", "lgtbifobia", "orientació sexual", "orientacion sexual", "violència sexual", "violencia sexual",
+      "panteres grogues", "genero no binari", "orgull", "pride"
+    ],
+    "Antiracisme": [
+      "racisme", "racista", "racismes", "racistes", "antiracisme", "antiracista", "xenofòbia", "xenofobia",
+      "islamofòbia", "islamofobia", "antisemita", "antisemitisme", "discriminació racial", "discriminacion racial",
+      "odi racial", "migrada", "migrades", "migració", "migracio", "migrants", "immigració", "immigracion",
+      "refugiada", "refugiades", "refugiat", "refugiats", "asil", "asilo", "persones migrants",
+      "racialitzat", "intolerancia", "intolerància", "top manta", "topmanta"
+    ],
+    "Drets humans": [
+      "drets humans", "llibertat d'expressió", "detenció", "detencio", "tortura", "violació de drets",
+      "violacio de drets", "amnistia", "llibertats", "drets civils", "empresonament", "presó", "preso",
+      "càrcel", "carcel", "repressió", "repressio", "estat d'excepció", "palestina", "gaza", "ucràina",
+      "ucraina", "humanitaris", "dhial"
+    ],
+    "Ecologia": [
+      "ecologia", "ecològic", "ecologica", "medi ambient", "mediambient", "clima", "climate change",
+      "crisi climàtica", "emissions", "contaminació", "contaminacio", "contaminant", "contaminants",
+      "biodiversitat", "espais naturals", "parcs naturals", "parc natural", "incineradora", "incinerador",
+      "nuclear", "hidroelèctrica", "hidroelectrica", "embassament", "sequera", "incendi", "incendis",
+      "flames", "reesbosament", "zona humida", "zonas humidas", "ecologistes", "defensa del territori",
+      "sòl contaminat", "renaturalització", "bosc", "bosque", "conservació", "conservacion", "climatització"
+    ],
+    "Energia": [
+      "energia", "energies", "energètic", "energetic", "renovable", "renovables", "fotovoltaica",
+      "fotovoltaic", "solar", "eòlica", "eolica", "aerogenerador", "hidroelèctric", "nuclear",
+      "tarifa elèctrica", "tarifa", "gasoducte", "gasoductos", "petroli", "petrol", "combustible",
+      "xarxa elèctrica", "consum energètic", "centres de dades", "centre de dades", "data center",
+      "datacenter", "megacentres de dades", "intel·ligència artificial", "inteligencia artificial",
+      "electrificació", "electrificacio", "eficiència energètica"
+    ],
+    "Aigua": [
+      "aigua", "aigües", "aigues", "rius", "riu", "llacs", "llac", "embassament", "embassaments",
+      "riada", "riades", "inundació", "inundacio", "sequera", "pluja", "plujes", "irrigació",
+      "irrigacio", "residuals", "sanejament", "contaminació dels rius"
+    ],
+    "Salut": [
+      "salut", "salut pública", "salut publica", "sanitari", "sanitària", "sanitarios", "hospital",
+      "hospitals", "metge", "metges", "infermer", "infermera", "epidèmia", "epidemia", "vacunació",
+      "vacunacio", "salut mental", "salut sexual", "ics", "medicament", "medicaments", "farmàcia",
+      "farmacia", "tabac", "alcohol", "drogues", "tràfic de drogues", "menors", "mortalitat infantil"
+    ],
+    "Treball": [
+      "treball", "treballadors", "treballadores", "sindicat", "sindicats", "sindical", "sindicals",
+      "conveni col·lectiu", "negociació col·lectiva", "negociació", "negociacion", "vaga", "huelga",
+      "vagues", "huelgas", "salari", "salaris", "salari mínim", "aturada", "precaritzat", "precarització",
+      "precarietat", "precariedad", "ertsa", "temps parcial", "jornada", "jornades", "empleat", "empleats",
+      "desocupació", "desocupacion", "atur", "treballs socials", "sindicatura", "mercats de treball"
+    ],
+    "Educació": [
+      "educació", "educacion", "escolar", "escola", "escoles", "universitat", "universitats",
+      "universitària", "estudiants", "estudiant", "alumnat", "alumne", "docent", "docents", "professor",
+      "professors", "professorat", "ensenyament", "interins", "mestre", "mestres", "llarres d'infància",
+      "guarderia", "formació professional", "formacio professional", "aules", "aula", "beques", "beca",
+      "acompanyament escolar", "infància", "infancia", "educació infantil", "residents"
+    ],
+    "Cultura": [
+      "cultura", "cultural", "cinema", "llibre", "llibres", "música", "musica", "teatre", "exposició",
+      "exposicio", "museu", "museus", "patrimoni", "patrimonio", "artista", "artistes", "culturisme",
+      "festival", "llengua", "llengües", "català", "castellà", "normalització lingüística", "premis",
+      "biblioteques", "biblioteca", "lectura", "creació artística", "disseny", "publicat", "editorial"
+    ],
+    "Barris": [
+      "barri", "barris", "veïnal", "veinal", "veïns", "veïnes", "veins", "veinas", "associació de veïns",
+      "comunitat de veïns", "pla de barri", "espai públic", "espai public", "convivència", "convivencia",
+      "plaça", "plaza", "participació veïnal", "participacion vecinal", "centre civic", "centre cívic",
+      "ateneu", "cassa de la joventut", "canals de participació", "comunitat", "edificis", "marginalització",
+      "sense llar", "persones sense llar", "urbanització"
+    ],
+    "Cooperativisme": [
+      "cooperativa", "cooperatives", "cooperativisme", "cooperativista", "cooperació", "cooperacion",
+      "intercooperació", "economia social", "economia solidària", "economia solidaria", "solidària",
+      "solidaria", "escoop", "empresa social", "treball cooperatiu", "consum cooperatiu"
+    ],
+    "Antifeixisme": [
+      "feixisme", "feixista", "antifeixisme", "antifeixista", "fascisme", "fascista", "nazisme",
+      "neofeixisme", "neofeixista", "autoritarisme", "dreta extrema", "dretes extremes", "discurs d'odi",
+      "discursos de odio", "brutalitat policial", "mossos d'esquadra"
+    ],
+    "Mobilitat": [
+      "mobilitat", "transport", "transport públic", "transport public", "trenet", "trens", "bus",
+      "autobús", "metro", "bicicleta", "bici", "carril bici", "viatgers", "aeroport", "tragèdia", "accident",
+      "atropellament", "taxi", "aparcament", "parking", "trànsit", "transit", "tgv", "renfe", "pàrquing",
+      "zona de vianants", "superilla", "carril bus"
+    ],
+    "Rural": [
+      "món rural", "mon rural", "pagesos", "pagesia", "agricultura", "agricultor", "agricultors",
+      "ramaderia", "ramaders", "cereal", "sembrats", "collita", "vinya", "viñedo", "olivar", "olivera",
+      "cava", "pedra seca", "turisme rural", "zones de muntanya", "masia", "masies", "cellers",
+      "agricultura ecològica", "sòl agrícola", "conreu", "eixars", "segura"
+    ],
+    "Política": [
+      "govern", "generalitat", "parlament", "consell de govern", "ajuntament", "ajuntaments", "alcaldia",
+      "alcalde", "alcaldesa", "regidor", "regidora", "eleccions", "electoral", "campanya electoral",
+      "erc", "junts", "psc", "cup", "comuns", "partit", "partits", "coalició", "coalicio", "moció",
+      "mocio", "proposta de llei", "decret llei", "llei", "pressupost", "consens", "diputat", "diputada",
+      "comissió", "comissio", "ple municipal", "govern d'espanya", "congrés", "senat", "ministre",
+      "ministra", "moncloa"
+    ],
+    "Altres": []
+  },
+  "feeds": [
+    { "name": "VilaWeb", "url": "https://www.vilaweb.cat/feed", "home": "https://www.vilaweb.cat/" },
+    { "name": "Ara", "url": "https://www.ara.cat/rss", "home": "https://www.ara.cat/" },
+    { "name": "La Vanguardia", "url": "https://www.lavanguardia.com/rss/home.xml", "home": "https://www.lavanguardia.com/" },
+    { "name": "La Vanguardia · Política", "url": "https://www.lavanguardia.com/rss/politica.xml", "home": "https://www.lavanguardia.com/politica" },
+    { "name": "La Vanguardia · Economia", "url": "https://www.lavanguardia.com/rss/economia.xml", "home": "https://www.lavanguardia.com/economia" },
+    { "name": "La Vanguardia · Barcelona", "url": "https://www.lavanguardia.com/rss/local.xml", "home": "https://www.lavanguardia.com/barcelona" },
+    { "name": "La Vanguardia · Societat", "url": "https://www.lavanguardia.com/rss/sociedad.xml", "home": "https://www.lavanguardia.com/sociedad" },
+    { "name": "La Vanguardia · Internacional", "url": "https://www.lavanguardia.com/rss/internacional.xml", "home": "https://www.lavanguardia.com/internacional" },
+    { "name": "La Vanguardia · Cultura", "url": "https://www.lavanguardia.com/rss/cultura.xml", "home": "https://www.lavanguardia.com/cultura" },
+    { "name": "La Directa", "url": "https://directa.cat/feed/", "home": "https://directa.cat/" },
+    { "name": "Catalunya Diari", "url": "https://www.naciodigital.cat/rss", "home": "https://www.naciodigital.cat/" },
+    { "name": "Diari de Barcelona", "url": "https://www.diariBarcelona.cat/rss", "home": "https://www.diariBarcelona.cat/" },
+    { "name": "Social.cat", "url": "https://www.social.cat/feed", "home": "https://www.social.cat/" },
+    { "name": "CCOO", "url": "https://www.ccoo.cat/rss", "home": "https://www.ccoo.cat/", "bias": "Treball" },
+    { "name": "UGT", "url": "https://www.ugt.cat/rss", "home": "https://www.ugt.cat/", "bias": "Treball" },
+    { "name": "CoopCat", "url": "https://cooperativescatalunya.coop/feed/", "home": "https://cooperativescatalunya.coop/", "bias": "Cooperativisme" },
+    { "name": "Habicoop", "url": "https://habicoop.cat/feed", "home": "https://habicoop.cat/", "bias": "Habitatge" },
+    { "name": "El Objective", "url": "https://www.theobjective.com/feed/", "home": "https://www.theobjective.com/" },
+    { "name": "EuroNews", "url": "https://www.euronews.com/rss", "home": "https://www.euronews.com/" }
+  ]
+}
