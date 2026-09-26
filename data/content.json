@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25",
+  "updated": "2026-09-26",
   "topics": [
     "Habitatge",
     "Feminismes",
@@ -23,24 +23,1367 @@
   ],
   "news": [
     {
+      "topic": "Antiracisme",
+      "title": "Concentració a Tavernes de la Valldigna per condemnar les agressions a dos joves migrants",
+      "source": "VilaWeb",
+      "date": "2026-09-26",
+      "url": "https://vilaweb.cat/noticies/concentracio-a-tavernes-de-la-valldigna-agressions-racistes",
+      "text": "Prop de 200 veïns es manifesten davant l’ajuntament per denunciar els atacs, que han estat enregistrats i difosos a les xarxes socials",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Política",
+      "title": "El pla de Junqueras després de l'amnistia: retorn a la universitat i objectiu Generalitat",
+      "source": "Catalunya Diari",
+      "date": "2026-09-26",
+      "url": "https://naciodigital.cat/politica/pla-junqueras-despres-amnistia-retorn-universitat-objectiu-generalitat.html",
+      "text": "El president d'ERC prioritza les municipals i les espanyoles abans de ser escollit formalment candidat i mantindrà l'equilibri entre \"exigència\" i \"raonabilitat\" per fer complir els acords als socialistes",
+      "issue": null,
+      "parties": [
+        {
+          "party": "PSC-Units",
+          "count": 1
+        },
+        {
+          "party": "ERC",
+          "count": 1
+        },
+        {
+          "party": "AC",
+          "count": 1
+        }
+      ]
+    },
+    {
       "topic": "Altres",
-      "title": "Renfe reconoce un robo de datos de clientes por parte de un grupo de ‘hackers’",
-      "source": "El Objective",
-      "date": "2026-09-25",
-      "url": "https://theobjective.com/espana/2026-09-25/renfe-reconoce-robo-datos-clientes-parte-grupo-hackers",
-      "text": "Renfe ha sido objeto de un incidente de ciberseguridad cuyo origen sitúa en los servidores del gestor de la infraestructura ferroviaria Adif, informa EFE. Estos servidores […]",
+      "title": "Saudi coalition says it intercepted Houthi drones and missiles bound for Saudi Arabia",
+      "source": "EuroNews",
+      "date": "2026-09-26",
+      "url": "https://euronews.com/2026/09/26/saudi-coalition-says-it-intercepted-houthi-drones-and-missiles-bound-for-saudi-arabia",
+      "text": "The Houthis declared a naval blockade of Saudi Arabia in July and have since been launching increasing attacks on Saudi cities and shipping, further heightening tensions in the Middle East.",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Educació",
+      "title": "Tres de cada quatres escoles públiques no tenen el pla de lectura que serà obligatori el curs vinent",
+      "source": "Ara",
+      "date": "2026-09-26",
+      "url": "https://ara.cat/societat/educacio/tres-quatres-escoles-publiques-no-tenen-pla-lectura-sera-obligatori-curs-vinent_1_5860388.html",
+      "text": "Saber llegir, llegir per aprendre i gust per llegir. Aquestes són les tres potes en què, segons el departament d'Educació, s'ha de basar el Pla de lectura de centre (PLEC). O, cosa que és el mateix, el pla que marca la línia didàctica i organitzativa que ha…",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Política",
+      "title": "Història dels Balcells, la família que va crear la marca de llet ATO",
+      "source": "Ara",
+      "date": "2026-09-26",
+      "url": "https://empreses.ara.cat/empreses/historia-dels-balcells-familia-crear-marca-llet-ato_1_5856293.html",
+      "text": "A mitjans dels anys vuitanta era difícil passar un dia a Catalunya sense topar-se, almenys un cop, amb el logotip d’ATO. Els seus envasos de llet omplien les lleixes dels supermercats i un milió de llars les acumulava al rebost de casa. Els espectadors de la…",
+      "issue": null,
+      "parties": [
+        {
+          "party": "AC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Cultura",
+      "title": "Investiguen si hi va haver asfíxia en la mort de l'arquitecte Josep Juanpere",
+      "source": "Ara",
+      "date": "2026-09-26",
+      "url": "https://ara.cat/societat/successos/investiguen-hi-asfixia-mort-l-arquitecte-josep-juanpere_1_5861126.html",
+      "text": "La mort del reconegut arquitecte català Josep Juanpere es va atribuir inicialment a un infart. Estava amb la seva parella a la segona residència de Baqueira quan, després de no contestar durant hores al telèfon, un nebot seu va hi va anar i va descobrir el…",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Mobilitat",
+      "title": "La bioenginyera que vol tornar la mobilitat a persones amb lesions medul·lars",
+      "source": "Ara",
+      "date": "2026-09-26",
+      "url": "https://ara.cat/ciencia-medi-ambient/biomedicina/bioenginyera-vol-tornar-mobilitat-persones-lesions-medul-lars_1_5857335.html",
+      "text": "El dia que va arribar al laboratori i va veure que els ratolins es tornaven a moure, Zaida Álvarez (Barcelona, 1984) no va poder evitar estremir-se. Enrere quedaven més de sis anys de recerca, de dilluns a diumenge, i una aposta arriscada per fintar…",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Cultura",
+      "title": "El nou planter de l’humor en català que fa camí fora de Barcelona",
+      "source": "Ara",
+      "date": "2026-09-26",
+      "url": "https://ara.cat/cultura/nou-planter-l-humor-catala-cami-fora-barcelona_1_5857555.html",
+      "text": "L’ stand-up comedy està de moda. I no només en castellà, que al principi era la llengua hegemònica d'aquest gènere de comèdia, sinó també en català . A Barcelona, cada vegada més locals aposten per convidar monologuistes que, drets i amb un micròfon, busquen…",
       "issue": null,
       "parties": []
     },
     {
       "topic": "Altres",
-      "title": "Die Linke negociará con socialdemócratas y verdes para formar gobierno en Berlín",
-      "source": "El Objective",
-      "date": "2026-09-25",
-      "url": "https://theobjective.com/internacional/2026-09-25/die-linke-socialdemocratas-verdes-gobierno-berlin",
-      "text": "La Izquierda aprobó este viernes en un congreso extraordinario en Berlín emprender conversaciones con el Partido Socialdemócrata (SPD) y Los Verdes para explorar la formación de […]",
+      "title": "Caught in the crossfire: Cognac pays the price for Europe’s trade wars",
+      "source": "EuroNews",
+      "date": "2026-09-26",
+      "url": "https://euronews.com/2026/09/26/caught-in-the-crossfire-cognac-pays-the-price-for-europes-trade-wars",
+      "text": "French Cognac producers are battling falling sales as trade disputes with China and the US squeeze the export-dependent industry and leave growers seeking EU support.",
       "issue": null,
       "parties": []
+    },
+    {
+      "topic": "Cultura",
+      "title": "Les portades del dissabte 26 de setembre de 2026",
+      "source": "VilaWeb",
+      "date": "2026-09-26",
+      "url": "https://vilaweb.cat/noticies/les-portades-del-dissabte-26-de-setembre-de-2026",
+      "text": "Us oferim les portades de tots els diaris en paper dels Països Catalans",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "How Russia recruits Belarusians for war in Ukraine: Methods and consequences",
+      "source": "EuroNews",
+      "date": "2026-09-26",
+      "url": "https://euronews.com/2026/09/26/how-russia-recruits-belarusians-for-war-in-ukraine-methods-and-consequences",
+      "text": "Russia's recruitment drive targeting Belarusians has become a key tool to boost manpower on the battlefield and exploits economic hardship and isolation.",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Antonio Banderas, sobre sus estudios: «No fue fácil entrar en Saint Martins y crearon un curso para mí; no admiten a muchos alumnos de mi edad»",
+      "source": "El Objective",
+      "date": "2026-09-26",
+      "url": "https://theobjective.com/gente/2026-09-26/antonio-banderas-estudios-saint-martins-curso-admiten-edad",
+      "text": "Antonio Banderas siempre ha sido un apasionado del arte. Es por eso que decidió formarse en Moda, cuando ya se había consolidado como uno de los […]",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "La técnica china de seis pasos para lavar el pelo que cambia por completo el resultado: más brillo, suavidad y un cabello bonito",
+      "source": "El Objective",
+      "date": "2026-09-26",
+      "url": "https://theobjective.com/lifestyle/belleza/2026-09-26/la-tecnica-china-de-seis-pasos-para-lavar-el-pelo-que-cambia-por-completo-el-resultado-mas-brillo-suavidad-y-un-cabello-bonito",
+      "text": "¿Y si el problema no fuera el champú que utilizas, sino la forma en la que te lavas el pelo? La técnica china de lavado que […]",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "‘Godzilla’ El Niño to be the strongest in living memory. How can we prepare for the unavoidable?",
+      "source": "EuroNews",
+      "date": "2026-09-26",
+      "url": "https://euronews.com/2026/09/26/godzilla-el-nino-to-be-the-strongest-in-living-memory-how-can-we-prepare-for-the-unavoidab",
+      "text": "El Niño can’t be stopped, but experts say better preparation and climate action could reduce the damage both now and in the future.",
+      "issue": null,
+      "parties": [
+        {
+          "party": "AC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Altres",
+      "title": "Ljubljana vs Zagreb: Which Central European capital should you visit next?",
+      "source": "EuroNews",
+      "date": "2026-09-26",
+      "url": "https://euronews.com/2026/09/26/ljubljana-vs-zagreb-which-central-european-capital-should-you-visit-next",
+      "text": "The capitals of Slovenia and Croatia are overlooked in favour of lake and coastal destinations elsewhere – here’s why it’s time for you to change that.",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Why are Norwegians buying more Chinese EVs despite growing scepticism?",
+      "source": "EuroNews",
+      "date": "2026-09-26",
+      "url": "https://euronews.com/2026/09/26/why-are-norwegians-buying-more-chinese-evs-despite-growing-scepticism",
+      "text": "Electric cars account for more than 95% of new car registrations in Norway, the highest share in the world. About one in four new EVs registered there are from fully or partly Chinese-owned brands.",
+      "issue": null,
+      "parties": [
+        {
+          "party": "AC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Altres",
+      "title": "Latest news bulletin | September 26th, 2026 – Morning",
+      "source": "EuroNews",
+      "date": "2026-09-26",
+      "url": "https://euronews.com/video/2026/09/26/latest-news-bulletin-september-26th-2026-morning",
+      "text": "Catch up with the most important stories from around Europe and beyond this September 26th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Cultura",
+      "title": "\"En un fill pots veure alhora passat i futur\"",
+      "source": "Ara",
+      "date": "2026-09-26",
+      "url": "https://criatures.ara.cat/familia/fill-pots-veure-alhora-passat-futur_128_5853739.html",
+      "text": "Quan escrivia el llibre, les històries que més em van impactar van ser aquelles en què els pares perdien els fills no a causa de la mort, sinó per circumstàncies provocades pels mateixos pares.",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Ceuta crisis reignites debate over suspending the EU’s right to asylum",
+      "source": "EuroNews",
+      "date": "2026-09-26",
+      "url": "https://euronews.com/2026/09/26/ceuta-crisis-reignites-debate-over-suspending-the-eus-right-to-asylum",
+      "text": "UN Refugee Agency, civil society groups and left-wing MEPs fear any proposal to suspend the right of asylum could enable illegal pushbacks, potentially exposing migrants to violence, torture or death.",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Sira, la protagonista de 'El tiempo entre costuras', regresa trece años después con “un nuevo pálpito y más activa”",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/television/20260926/11642910/sira-protagonista-costuras-regresa-trece-anos-nuevo-palpito-mas-activa.html",
+      "text": "Atresmedia presenta en San Sebastián la continuación del fenómeno televisivo que adaptaba la novela de María Dueñas, con Adriana Ugarte de nuevo en la piel de la protagonista",
+      "issue": null,
+      "parties": [
+        {
+          "party": "AC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Altres",
+      "title": "Así es 'Blackmere', la original nueva serie del creador de 'Black Mirror' para Netflix",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/series/20260926/11643965/asi-blackmere-original-nueva-serie-creador-black-mirror-netflix.html",
+      "text": "Por supuesto que Charlie Brooker no estrenará un simple thriller de asesinatos",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "“Por fin podemos encontrar mujeres en la cima de sus respectivas especialidades de cine”",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/magazine/protagonistas/20260926/11642124/gillian-anderson-encontrar-mujeres-cima-respectivas-especialidades-cine.html",
+      "text": "Icono de la cultura contemporánea, siempre fue una mujer adelantada a su tiempo y, a sus 58 años, sigue a la vanguardia de la modernidad",
+      "issue": null,
+      "parties": [
+        {
+          "party": "Comuns",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Altres",
+      "title": "Dra. Natalia Hougham, especialista en medicina estética: «No quiero que una mujer de 50 parezca de 30. Quiero que parezca una mujer de 50 que está estupenda»",
+      "source": "El Objective",
+      "date": "2026-09-26",
+      "url": "https://theobjective.com/lifestyle/belleza/2026-09-26/dra-natalia-hougham-especialista-en-medicina-estetica-no-quiero-que-una-mujer-de-50-parezca-de-30-quiero-que-parezca-una-mujer-de-50-que-esta-estupenda",
+      "text": "Durante años, la medicina estética parecía tener una misión muy concreta: borrar las huellas del paso del tiempo. Arrugas, pérdida de volumen, flacidez… todo aquello que […]",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "La verdad y nada más que la verdad",
+      "source": "La Vanguardia · Cultura",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/cultura/culturas/20260926/11642434/verdad-mas-verdad.html",
+      "text": "La editorial Debate recupera tres de los libros de Janet Malcolm, quien se convirtió en una leyenda del periodismo con sus indagaciones casi detectivescas",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Ataques capaces de detener fábricas y alterar infraestructuras",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/empresas-de-vanguardia/historias-de-exito/20260926/11641478/ataques-capaces-detener-fabricas-alterar-infraestructuras-reto-ciberseguridad-industrial.html",
+      "text": "Contecnow protege desde 2004 los sistemas IT y OT de empresas en Catalunya y Andorra, con especialización en entornos industriales",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Habitatge",
+      "title": "Barcelona y la propiedad comercial",
+      "source": "La Vanguardia · Barcelona",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/local/barcelona/20260926/11643560/barcelona-propiedad-comercial.html",
+      "text": "El Ayuntamiento de Barcelona lleva unas semanitas intensas anunciando optimistas medidas en clave comercial. Primero habló de limitar los alquileres, haciendo suya una propuesta de ERC que apunta, cómo no, a los propietarios. Por eso no plantea rebajar el IBI…",
+      "issue": "rendes-lloguer",
+      "parties": [
+        {
+          "party": "ERC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Altres",
+      "title": "El Gobierno acelera para sellar un pacto antidesahucios",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/politica/20260926/11644097/gobierno-negocia-contrarreloj-sellar-martes-plan-antidesahucios.html",
+      "text": "El sector socialista estudia congelar alquileres y niega a Sumar las expropiaciones",
+      "issue": "rendes-lloguer",
+      "parties": [
+        {
+          "party": "AC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Altres",
+      "title": "Diésel, gas, vivienda",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/politica/20260926/11644096/diesel-gas-vivienda.html",
+      "text": "Suben los combustibles y un desahucio remueve entrañas",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "El Papa ofrece el reverso de Trump",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/internacional/20260926/11644150/papa-ofrece-reverso-trump.html",
+      "text": "León XIV alaba el multilateralismo y homenajea a la Unesco, que EE.UU. abandonará",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "En manos de dos ‘patos cojos’",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/internacional/20260926/11644002/manos-dos-patos-cojos.html",
+      "text": "Europa afronta debates decisivos con sus dos principales líderes, Merz y Macron, en situación precaria",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "La Asamblea de la ONU gana relevancia como púlpito para contrariar a Trump y Netanyahu",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/internacional/20260926/11644067/asamblea-general-gana-relevancia-organo-contrariar-trump-netanyahu.html",
+      "text": "En unas Naciones Unidas cada vez más irrelevantes a la hora de resolver conflictos, su debate anual permite que todos los miembros, rico y pobres, se expresen como iguales",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Vuelve el fantasma de la inflación",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/economia/20260926/11644078/vuelve-fantasma-inflacion.html",
+      "text": "A la espera de las ayudas que ha anunciado el Gobierno y que deberían aprobarse en el próximo Consejo de Ministros para los sectores más afectados, la fuerte subida del precio de los carburantes ha puesto en primer plano de nuevo a la inflación como el…",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "El Madrid de los nuevos cayetanos",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/vida/20260926/11644052/madrid-nuevos-cayetanos.html",
+      "text": "A veces una se entera de lo que pasa en Madrid por The New York Times. Sobre la patria de la libertad, ya saben, allí donde nunca te encuentras a un ex, ha escrito Jason Horowitz un extenso reportaje que merece atención. Seguir leyendo...",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "El síndrome silencioso",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/vivo/20260926/11640477/sindrome-silencioso-metabolico-poliendocrino-somp.html",
+      "text": "Obre la font per llegir la notícia completa.",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "España ya luce las dos estrellas de campeones del mundo en la camiseta",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/deportes/futbol/20260926/11644098/espana-luce-dos-estrellas-campeones-mundo-camiseta.html",
+      "text": "La camiseta, tanto la roja como la blanca, mantiene el diseño del Mundial de 2026",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Los ‘boletaires’ lo tienen claro: la temporada de setas será mala y corta",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/comer/materia-prima/20260926/11643643/boletaires-claro-temporada-setas-sera-mala-corta.html",
+      "text": "Las altas temperaturas y la falta de lluvias frenan la proliferación de hongos",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Más cucarachas, menos mosquitos: así altera el clima extremo a las plagas urbanas",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/natural/20260926/11643714/mas-cucarachas-mosquitos-asi-altera-clima-extremo-plagas-urbanas.html",
+      "text": "El calor extremo de este verano atenta contra la supervivencia de los mosquitos, pero favorece la proliferación de las cucarachas, que sobreviven en los microclimas del subsuelo urbano y el alcantarillado",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Vilanova confía en que se abra la puerta a una ambiciosa reforma del paseo marítimo",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/local/vilanova/20260926/11640753/vilanova-confia-desencalle-pla-especial-port-abriria-puerta-ambiciosa-reforma-paseo-maritimo.html",
+      "text": "La actuación incluiría un gran aparcamiento subterráneo a la largo de todo el paseo litoral",
+      "issue": null,
+      "parties": [
+        {
+          "party": "AC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Altres",
+      "title": "Bailando con fuego",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/local/20260926/11644156/bailando-fuego-correfoc-merce-diables-bestias.html",
+      "text": "Obre la font per llegir la notícia completa.",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Petróleo en los dientes",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/internacional/20260926/11644100/petroleo-dientes.html",
+      "text": "¿Qué llevó a un fabricante de perfumes y lociones de Santander a poner el nombre del estrecho de Ormuz a su producto estrella en 1936? Es una historia dentífrica que pasa del blanco muy blanco al negro, y del negro negrísimo al blanco Seguir leyendo...",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Finca Nebot, el Poblenou y Chechelnitsky",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/local/barcelona/20260926/11642032/finca-nebot-poblenou-chechelnitsky.html",
+      "text": "Este es el quinto restaurante del grupo No hay Mañana, que lidera un joven empresario ruso que creció en Barcelona",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "De Argentina al Maresme tras jubilarse: “Mi abuelo emigró y yo hice el viaje a la inversa”",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/vivo/longevity/20260926/11634152/argentina-maresme-140-anos-mi-abuelo-emigro-hice-viaje-inversa-jubilarme-siento-doble-identidad.html",
+      "text": "Esta argentina trabajó durante más de tres décadas como arquitecta en su país de origen, pero siguió a la inversa los pasos de su abuelo y volvió al pueblo de Montgat para iniciar una nueva vida en la tercera edad",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Así evoluciona la sexualidad masculina en la madurez",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/vida/salud/20260926/11643933/asi-evoluciona-sexualidad-masculina-madurez.html",
+      "text": "Los cambios hormonales en el cuerpo pueden alterar el deseo y las erecciones, pero existen opciones para abordarlos",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Así no se puede espiar",
+      "source": "La Vanguardia · Política",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/politica/20260926/11644048/asi-espiar.html",
+      "text": "El artículo “No todo vale...” de Jorge Dezcallar, publicado en la edición de este diario del pasado domingo, es muy interesante. Escribe su autor que la decisión de Pedro Sánchez de desclasificar decenas de documentos de inteligencia a propósito de la crisis…",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Delivery Hero mantiene al líder en el complejo proceso de venta a Uber",
+      "source": "La Vanguardia · Economia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/economia/20260926/11644094/delivery-hero-mantiene-lider-complejo-proceso-venta-uber.html",
+      "text": "La operación debe ser aprobada por diez autoridades tras ser aceptada por los accionistas",
+      "issue": null,
+      "parties": [
+        {
+          "party": "AC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Altres",
+      "title": "Las aseguradoras ultiman una alianza europea frente al golpe financiero de la crisis climática",
+      "source": "La Vanguardia · Economia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/economia/20260926/11644076/aseguradoras-ultiman-alianza-europea-frente-golpe-financiero-crisis-climatica.html",
+      "text": "Las nueve empresas cotizadas europeas preparan una carta pública",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Plus Partners sube la inversión hasta 50 millones",
+      "source": "La Vanguardia · Economia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/economia/20260926/11643967/plus-partners-sube-inversion-50-millones.html",
+      "text": "El fondo ha invertido en nueve startups y prevé llegar a 40",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Se estrenan las Experiencias All Those",
+      "source": "La Vanguardia · Barcelona",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/local/barcelona/20260926/11642270/estrenan-experiencias-all-those.html",
+      "text": "En su espacio de La Fábrica Lehmann (Consell de Cent, 159), ofrecerán a partir del 2 de octubre una serie de talleres, catas y diversas actividades creativas en pequeños grupos",
+      "issue": null,
+      "parties": [
+        {
+          "party": "AC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Altres",
+      "title": "Vannacci busca su Sajonia en el sur de Italia",
+      "source": "La Vanguardia · Internacional",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/internacional/20260926/11643951/vannacci-busca-sajonia-sur-italia.html",
+      "text": "El partido del general ultra mide por primera vez su fuerza en las urnas en unas elecciones parciales que pueden condicionar el futuro de la derecha italiana",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Els Amics de les Arts alzan un ‘castell’ de música en las fiestas de la Mercè",
+      "source": "La Vanguardia · Cultura",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/cultura/20260926/11644170/els-amics-les-arts-alzan-castell-musica-fiestas-merce.html",
+      "text": "Maria Jaume abrió la velada con un canto a las fiestas mayores y el grito 'tourist go home'",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "La aristocrática riqueza de Mònica Maragall",
+      "source": "La Vanguardia · Cultura",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/cultura/culturas/20260926/11643756/aristocratica-riqueza-monica-maragall.html",
+      "text": "Eclipsada quizás por sus célebres hermanos, la escritora barcelonesa destacó por una prosa cálida y sensorial y por una mirada delicada y esencial de la naturaleza",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Los inicios de Marcos Ordoñez",
+      "source": "La Vanguardia · Cultura",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/cultura/culturas/20260926/11643716/marcos-ordonez-inicios.html",
+      "text": "Una evocación del novelista y crítico teatral barcelonés fallecido el pasado lunes",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "El viaje de Ian McEwan al siglo XXII en busca de la poesía perdida",
+      "source": "La Vanguardia · Cultura",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/cultura/culturas/20260926/11642014/ian-mcewan-siglo-xxii-busca-poesia-perdida.html",
+      "text": "El escritor inglés nos sitúa en un futuro distópico y se sirve de la investigación sobre una composición poética para reflexionar sobre cuánto podemos saber de nosotros y nuestro pasado",
+      "issue": null,
+      "parties": [
+        {
+          "party": "Comuns",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Altres",
+      "title": "Así edificó Rafael Moneo su ideario",
+      "source": "La Vanguardia · Cultura",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/cultura/culturas/20260926/11642013/asi-edifico-rafael-moneo-ideario.html",
+      "text": "La guía canónica de Carmen Díez Medina ilumina la carrera intelectual del arquitecto tudelano, a partir de sus artículos, conferencias y debates teóricos",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Las serendipias africanas de Nuria Pérez",
+      "source": "La Vanguardia · Cultura",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/cultura/culturas/20260926/11642011/serendipias-africanas-nuria-perez.html",
+      "text": "En su segunda novela, la autora gallega vuelve a entrelazar de forma brillante historias cargadas de emoción que confluyen a lo largo de un siglo en RD Congo",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "El mueble KALLAX es la solución más barata para poner orden en una habitación",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/comprar/hogar-cocina/20260926/11636590/mueble-kallax-ikea-siempre-solucion-mas-barata-poner-orden-habitacion-mkt-ikea.html",
+      "text": "Sea la estancia que sea la que necesita almacenaje, con el sistema KALLAX tienes múltiples opciones. Y es que esta sigue siendo la opción más popular por su versatilidad e increíble precio, ahora aún más bajo. Descubre qué modelo encaja mejor en cada espacio…",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Cuando Ceuta resistió un sitio marroquí de 33 años",
+      "source": "El Objective",
+      "date": "2026-09-26",
+      "url": "https://theobjective.com/podcasts/ilustres-olvidados/sitio-ceuta-ilustres-olvidados",
+      "text": "Obre la font per llegir la notícia completa.",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Política",
+      "title": "De vicepresidentas a alcaldables: Aitana Mas y Mónica Oltra se pasan a la política municipal",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/local/valencia/20260926/11643976/vicepresidentas-alcaldables-aitana-monica-oltra-pasan-politica-municipal.html",
+      "text": "La diputada autonómica anuncia su candidatura a la Alcaldía de Crevillent y sigue los pasos de Oltra que ya es candidata por València",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Dentro de la ‘Vista de Delft’",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/cultura/culturas/20260926/11641015/vista-delft-vermeer-explorar.html",
+      "text": "Obre la font per llegir la notícia completa.",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Los extremeños se tocan (2): Trump y Sánchez",
+      "source": "El Objective",
+      "date": "2026-09-26",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-09-26/extremenos-tocan-2-trump-sanchez-articulo-gabriel-tortella",
+      "text": "Recuerdo haber leído en una historia de la Revolución rusa que, mientras los bolcheviques de Trotsky estaban llevando a cabo su «revolución», que en realidad fue […]",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Darwinismo social: de Ceuta a Retiro",
+      "source": "El Objective",
+      "date": "2026-09-26",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-09-26/darwinismo-socia-ceuta-retiro-articulo-de-lora",
+      "text": "«Los devolveremos con dignidad… y en España eso significa que los inmigrantes no son ganado, sino seres humanos». Así respondió Pedro Sánchez a preguntas de la […]",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Maricarmen en el país de los soviets",
+      "source": "El Objective",
+      "date": "2026-09-26",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-09-26/maricarmen-pais-soviets-articulo-vilches",
+      "text": "La anciana de 87 años desahuciada en El Retiro se va a convertir en el mito fundacional del Frente Amplio, la mártir que usarán para el […]",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Sánchez y el arte del escaqueo",
+      "source": "El Objective",
+      "date": "2026-09-26",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-09-26/sanchez-arte-escaqueo-articulo-victoria-carvajal",
+      "text": "Este Gobierno ha dado con una forma de gobernar que consiste en no gestionar. El patrón se repite en cada crisis. Primero niega cualquier responsabilidad, para […]",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Guía para podar la lavanda: cuándo y cómo hacerlo para eliminar las ramas secas",
+      "source": "El Objective",
+      "date": "2026-09-26",
+      "url": "https://theobjective.com/sociedad/medioambiente/2026-09-26/guia-para-podar-la-lavanda-cuando-y-como-hacerlo-para-eliminar-las-ramas-secas",
+      "text": "La lavanda es una de esas plantas aromáticas, que no requieren un gran mantenimiento. Aunque si la dejamos que crezca sin control, tiende a frenar su […]",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "La Oficina de Conflictos solo resuelve el 45% de sus expedientes sancionadores desde 2018",
+      "source": "El Objective",
+      "date": "2026-09-26",
+      "url": "https://theobjective.com/economia/2026-09-26/oficina-conflictos-resuelve-45-expedientes-sancionadores-2018",
+      "text": "La Oficina de Conflictos de Intereses (OCI), dependiente del Ministerio para la Transformación Digital y de la Función Pública, ha resuelto 14 de los 31 expedientes […]",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "El Pentágono ya habla de armas con base en la Luna para 2040 y tiene sus razones",
+      "source": "El Objective",
+      "date": "2026-09-26",
+      "url": "https://theobjective.com/tecnologia/2026-09-26/pentagono-armas-base-luna-2040",
+      "text": "12 hombres, un reactor nuclear y armas pensadas para perforar trajes espaciales. Así imaginaba el Ejército estadounidense su primera guarnición fuera de la atmósfera terrestre, en […]",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Una alto cargo de Albares, señalada por colocar a su hermano y buscarse un destino dorado",
+      "source": "El Objective",
+      "date": "2026-09-26",
+      "url": "https://theobjective.com/espana/politica/2026-09-26/alto-cargo-albares-hermano-destino-dorado",
+      "text": "Nueva marejada en el Ministerio de Asuntos Exteriores por sospechas de enchufismo y enriquecimiento personal de una alto cargo cercana a José Manuel Albares. Se trata […]",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Rocío Verdugo, experta en limpieza: «Para que la casa huela siempre a limpio, pulveriza tu sofá y cortinas con esta mezcla de 200ml de alcohol de limpieza de Mercadona, suavizante y agua»",
+      "source": "El Objective",
+      "date": "2026-09-26",
+      "url": "https://theobjective.com/lifestyle/2026-09-26/rocio-verdugo-experta-en-limpieza-para-que-la-casa-huela-siempre-a-limpio-pulveriza-tu-sofa-y-cortinas-con-esta-mezcla-de-200ml-de-alcohol-de-limpieza-de-mercadona-suavizante-y-agua",
+      "text": "Conseguir que la casa huela bien no siempre requiere comprar productos específicos o recurrir a ambientadores. Rocío Verdugo, conocida en redes sociales como roverdugo5, ha compartido […]",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "El líder de la asociación juvenil Revuelta: «Vox intentó destruirme con una denuncia falsa»",
+      "source": "El Objective",
+      "date": "2026-09-26",
+      "url": "https://theobjective.com/espana/politica/2026-09-26/lider-asociacion-revuelta-vox-denuncia-falsa",
+      "text": "Durante meses, Revuelta, la asociación juvenil nacida al alero de Vox, estuvo en el epicentro informativo del país. A estos chavales, que se denominan patriotas, se […]",
+      "issue": null,
+      "parties": [
+        {
+          "party": "Vox",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Altres",
+      "title": "La UE y España estudian el uso de antenas de móvil para detectar ataques de drones",
+      "source": "El Objective",
+      "date": "2026-09-26",
+      "url": "https://theobjective.com/espana/2026-09-26/detectar-drones-antenas-bruselas-espana",
+      "text": "La Unión Europea analiza el uso de las redes de telefonía móvil para la detección de drones y concentraciones de personas, tal y como detalla Cordis […]",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Afines a Page temen que Sánchez busque un candidato alternativo en Castilla-La Mancha",
+      "source": "El Objective",
+      "date": "2026-09-26",
+      "url": "https://theobjective.com/espana/politica/2026-09-26/page-sanchez-candidato-castilla-mancha",
+      "text": "Los afines de Emiliano García-Page tienen la mosca detrás de la oreja. Temen que el presidente del Gobierno, Pedro Sánchez, esté buscando un candidato alternativo en […]",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Las heparinas pierden peso en Rovi: suponen el 38% de sus ventas frente al 43% hace un año",
+      "source": "El Objective",
+      "date": "2026-09-26",
+      "url": "https://theobjective.com/economia/2026-09-26/heparinas-pierden-peso-rovi",
+      "text": "Las heparinas, medicamentos anticoagulantes, están perdiendo peso en la estructura de negocio de Rovi. La división, históricamente una de las principales fuentes de ingresos de la […]",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Barris",
+      "title": "Vicenta ya no está sola",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/local/valencia/20260926/11642887/vicenta-esta-sola.html",
+      "text": "La veo desde mi balcón interior, el que da a ese patio de manzanas del barrio de Patraix que los vecinos reformamos hace casi veinte años, cuando éramos padres primerizos y nos parecía que el mundo cabía en un tobogán de plástico y en una casita de madera…",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "El calor aún incomoda en las aulas: profesores de Paiporta reclaman una mejor climatización",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/local/valencia/20260926/11643777/calor-aun-incomoda-aulas-profesores-paiporta-reclaman-mejor-climatizacion.html",
+      "text": "Docentes del IES Andreu Alfaro se concentran para protestar ante la “inacción” de la Conselleria de Educación, pues solo tienen dos ventiladores y dos aulas climatizadas en un septiembre de termómetros altos",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Alicante y su puerto se preparan para acoger la sexta salida consecutiva de la regata Ocean Race",
+      "source": "La Vanguardia · Barcelona",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/local/valencia/20260926/11643982/alicante-puerto-preparan-acoger-sexta-salida-consecutiva-regata-ocean-race.html",
+      "text": "El 17 de enero la flota zarpará para recorrer la etapa más larga de la historia de la Vuelta al Mundo a Vela, un maratón entre la capital de la Costa Blanca y Auckland, Nueva Zelanda,&nbsp;14.000 millas náuticas sin escalas",
+      "issue": null,
+      "parties": [
+        {
+          "party": "AC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Altres",
+      "title": "¿Te ausentas unos días de casa? Apaga estos aparatos si no quieres seguir pagando luz",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/dinero/bolsillo/20260926/11636150/te-vas-vacaciones-apaga-aparatos-quieres-seguir-pagando-luz-pca.html",
+      "text": "Televisores, consolas, pequeños electrodomésticos o termos pueden seguir consumiendo aunque la vivienda esté vacía, pero no todo debe desenchufarse",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "¿Cuántos conejos eres capaz de ver en menos de 30 segundos?",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/participacion/retos/20260926/11640307/reto-visual-conejos-capaz-ver-30-segundos.html",
+      "text": "Aparecen en esta fotografía captada en el camino viejo de Tàrrega, en el Urgell, pero, ¿cuántos localizas?",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "La naturaleza espectacular de las Azores",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/participacion/las-fotos-de-los-lectores/20260926/11639958/naturaleza-espectacular-azores.html",
+      "text": "Estas&nbsp;islas volcánicas situadas en medio del océano Atlántico conforman un precioso paraíso natural",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "La máscara del rey Caballo",
+      "source": "La Vanguardia",
+      "date": "2026-09-26",
+      "url": "https://lavanguardia.com/participacion/las-fotos-de-los-lectores/20260926/11643005/mascara-rey-caballo.html",
+      "text": "Las formas alargadas de las orejas y el color oscuro le dan un aspecto casi fantasmagórico y cortesano, que puede evocar las máscaras utilizadas en la corte francesa durante fiestas y bailes de los siglos XVII y XVIII",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Una 'Aida' allunyada no historicista inaugura la temporada del Liceu",
+      "source": "Ara",
+      "date": "2026-09-25",
+      "url": "https://ara.cat/cultura/opera/aida-allunyada-no-historicista-inaugura-temporada-liceu_1_5861307.html",
+      "text": "Recomano vivament a qui vagi a veure la versió d’Aida que signa Shirin Neshat i que inaugura temporada del Liceu, que es llegeixi l’article L’imperi en acció: 'Aida' de Verdi , d’Edward W. Said, inclòs a Culture and Imperialism . Perquè pot ajudar a entendre…",
+      "issue": null,
+      "parties": [
+        {
+          "party": "AC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Altres",
+      "title": "‘Matinée’ en Embajadores",
+      "source": "La Vanguardia · Cultura",
+      "date": "2026-09-25",
+      "url": "https://lavanguardia.com/cultura/20260926/11644317/matinee-embajadores.html",
+      "text": "“Encuéntrame en la matinée , en la oscuridad de la matinée , es mejor en la matinée ”, reza la canción de Franz Ferdinand. Y eso debieron de pensar todos los que acudieron ayer a los cines Embajadores para ser los primeros en ver La bola negra . Seguir…",
+      "issue": null,
+      "parties": [
+        {
+          "party": "AC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Altres",
+      "title": "Cultura es conflicto",
+      "source": "La Vanguardia · Cultura",
+      "date": "2026-09-25",
+      "url": "https://lavanguardia.com/cultura/20260926/11644310/cultura-conflicto.html",
+      "text": "Hace casi una década, dos hombres de teatro omnívoros como Joan Arqué (actor y director) y Erol Ileri (realizador y ahora actor) tenían el proyecto de ir a los Balcanes para sumergirse en el largo y doloroso proceso digestivo de las guerras que, en la última…",
+      "issue": null,
+      "parties": [
+        {
+          "party": "AC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Altres",
+      "title": "Netrebko enciende el Liceu con la ‘Aida’ de Shirin Neshat, una lección de ‘opéra vérité’",
+      "source": "La Vanguardia",
+      "date": "2026-09-25",
+      "url": "https://lavanguardia.com/cultura/20260926/11644181/netrebko-enciende-liceu-aida-shirin-neshat-leccion-opera-verite.html",
+      "text": "La deseada cantante demuestra amar el papel y también el montaje de la artista visual iraní, cien por cien político y crítico con la guerra y los intereses espurios de los grandes mandatarios que rigen el planeta",
+      "issue": null,
+      "parties": [
+        {
+          "party": "Comuns",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Altres",
+      "title": "Desahucios y gas pimienta",
+      "source": "La Vanguardia",
+      "date": "2026-09-25",
+      "url": "https://lavanguardia.com/opinion/20260926/11644068/desahucios-gas-pimienta.html",
+      "text": "Nadie alegó objeción de conciencia; ni el ministro, ni la ministra, ni la policía, ni la juez",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "El precio del diésel dispara las alarmas",
+      "source": "La Vanguardia",
+      "date": "2026-09-25",
+      "url": "https://lavanguardia.com/opinion/20260926/11644168/precio-diesel-dispara-alarmas.html",
+      "text": "El diésel para automoción ha alcanzado en las gasolineras de la Unión Europa precios máximos de 2,23 euros por litro, en torno a un 40% más desde enero pasado. En España, el precio medio es algo más bajo, 1,9187 euros incluyendo la bonificación de 20 céntimos…",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Aulas con olor a goma de borrar",
+      "source": "La Vanguardia",
+      "date": "2026-09-25",
+      "url": "https://lavanguardia.com/opinion/20260926/11643778/aulas-olor-goma-borrar.html",
+      "text": "El Govern no quiere volver al pasado, sino intentar el regreso al futuro de los alumnos",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "La ciudad del cielo",
+      "source": "La Vanguardia",
+      "date": "2026-09-25",
+      "url": "https://lavanguardia.com/opinion/20260926/11643638/ciudad-cielo.html",
+      "text": "La capacidad científico-tecnológica y el dinamismo emprendedor han traído prosperidad a Hangzhou",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Las vidas póstumas de Lorca",
+      "source": "La Vanguardia",
+      "date": "2026-09-25",
+      "url": "https://lavanguardia.com/opinion/20260926/11643742/vidas-postumas-lorca.html",
+      "text": "La bola negra la echa alguien que se cree con derecho a decidir quién pertenece y quién no",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Excluir o asimilar",
+      "source": "La Vanguardia",
+      "date": "2026-09-25",
+      "url": "https://lavanguardia.com/opinion/20260926/11643659/excluir-asimilar.html",
+      "text": "La normalización de Vox ha sido un ejercicio de irresponsabilidad democrática colectiva",
+      "issue": null,
+      "parties": [
+        {
+          "party": "Vox",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Altres",
+      "title": "La belleza asesina",
+      "source": "La Vanguardia",
+      "date": "2026-09-25",
+      "url": "https://lavanguardia.com/opinion/20260926/11643766/belleza-asesina.html",
+      "text": "Cómo puede ser, una simple melodía, a la vez maravillosa y terrible, juguetona y moribunda",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Una bola negra que rueda y rueda",
+      "source": "La Vanguardia",
+      "date": "2026-09-25",
+      "url": "https://lavanguardia.com/cultura/20260926/11644177/bola-negra-nieve-rueda-rueda.html",
+      "text": "De acuerdo. Dejemos a un lado nuestras rencillas con los códigos QR por sustituir al menú en papel, el de toda la vida, y aceptémoslos por una sola vez. Hay que reconocer su practicidad para que los espectadores pudieran formular preguntas a los Javis acerca…",
+      "issue": null,
+      "parties": [
+        {
+          "party": "AC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Altres",
+      "title": "Maricarmen, ¿líder del nuevo 15-M?",
+      "source": "La Vanguardia",
+      "date": "2026-09-25",
+      "url": "https://lavanguardia.com/politica/20260926/11644074/maricarmen-lider-nuevo-15-m.html",
+      "text": "En España hay casi 50 Maricarmenes cada día. El desahucio de esta jubilada de aspecto frágil pero combativo se ha convertido en símbolo de un drama silencioso. No es una inquiokupa , como la derecha califica a los impagos de rentas sin distinción. Es una…",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "La inmobiliaria propone que Maricarmen vuelva a su casa y Almeida lo rechaza",
+      "source": "La Vanguardia",
+      "date": "2026-09-25",
+      "url": "https://lavanguardia.com/vida/20260926/11644176/inmobiliaria-propone-maricarmen-vuelva-casa-almeida-rechaza.html",
+      "text": "La oferta llega tras un dictamen municipal según el cual debe vivir en un geriátrico",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Crecer a costa de Trump",
+      "source": "La Vanguardia",
+      "date": "2026-09-25",
+      "url": "https://lavanguardia.com/opinion/20260926/11644167/crecer-costa-trump.html",
+      "text": "León XIV fue recibido ayer en la Unesco con vítores y una larga ovación",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "“Ser buen padre no consiste en caerle bien a tu hijo”",
+      "source": "La Vanguardia",
+      "date": "2026-09-25",
+      "url": "https://lavanguardia.com/lacontra/20260926/11644149/nina-lykke-buen-padre-consiste-caerle-hijo.html",
+      "text": "Tengo 61 años. Nací y vivo en Noruega. He sido diseñadora gráfica hasta que a los 45 años me dediqué a escribir. Estoy casada por segunda vez. Tengo dos hijos y 4 nietos. En Noruega esperamos que el Estado se haga cargo de todo y tengo la impresión de que eso…",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "La protección a los inquilinos que la República postergó y el franquismo se apropió",
+      "source": "La Vanguardia",
+      "date": "2026-09-25",
+      "url": "https://lavanguardia.com/historiayvida/historia-contemporanea/20260926/11644158/ley-arrendamientos-urbanos-republica-acabo-aprobando-franco-alquiler-alquileres-desahucio-desahucios.html",
+      "text": "La huelga de alquileres de 1931 se convirtió en el primer estallido social al que tuvo que hacer frente el nuevo régimen, aunque sus sucesivos gobiernos priorizaron otras demandas políticas",
+      "issue": "rendes-lloguer",
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Mbappé es lesiona amb França i torna lesionat a Madrid a un mes pel clàssic",
+      "source": "Ara",
+      "date": "2026-09-25",
+      "url": "https://ara.cat/esports/futbol/mbappe-lesiona-franca-torna-lesionat-madrid-mes-pel-classic_1_5861296.html",
+      "text": "\"Mbappé no està bé. Hi ha hagut una hipertensió en el genoll després del xut i crec que tornarà a Madrid, no correrem cap risc\". Aquestes va ser les primeres reaccions de Zinedine Zidane —que es va estrenar amb victòria amb la selecció francesa davant Turquia…",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Cultura",
+      "title": "La Barcelona del 1917 segons Picabia",
+      "source": "Ara",
+      "date": "2026-09-25",
+      "url": "https://ara.cat/opinio/barcelona-1917-segons-picabia_129_5836755.html",
+      "text": "Article genuïnament dadaista que va publicar amb el pseudònim Pharmousse l’artista Francis Picabia (París, 1879-1953) a 391 (VI-1917), revista que ell dirigia a Barcelona, Zúric i Nova York entre 1917 i 1924. Traducció pròpia. Fins al 29 de novembre es pot…",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "What is killing whale calves in Patagonia? bacteria under suspicion",
+      "source": "EuroNews",
+      "date": "2026-09-25",
+      "url": "https://euronews.com/2026/09/25/what-is-killing-whale-calves-in-patagonia-bacteria-under-suspicion",
+      "text": "Dozens of southern right whale calves have been found dead on Argentina's Patagonian coast. Scientists are probing a possible bacterial infection after an unusually deadly season.",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Mbappé se retira lesionado en la rodilla izquierda tras marcar ante Turquía",
+      "source": "La Vanguardia",
+      "date": "2026-09-25",
+      "url": "https://lavanguardia.com/deportes/20260925/11644161/mbappe-retira-lesionado-rodilla-izquierda-marcar-turquia.html",
+      "text": "El delantero del Madrid logra el gol del triunfo en el estreno de Zidane con Francia pero se marcha muy dolorido",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Treball",
+      "title": "El Girona absol pecats i s’emociona amb el retorn de Portu",
+      "source": "Ara",
+      "date": "2026-09-25",
+      "url": "https://ara.cat/esports/girona-fc/girona-absol-pecats-s-emociona-retorn-portu_1_5861244.html",
+      "text": "El Girona accelera amb la quarta victòria de les últimes cinc jornades en una nit rodona i emotiva contra l’Albacete (2-0), en què els gols d’Abel Ruiz i Van de Beek, les aturades de Paulo Gazzaniga i la falta de punteria dels visitants van decantar la…",
+      "issue": null,
+      "parties": [
+        {
+          "party": "AC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Altres",
+      "title": "De la Fuente: “España ha ganado el Mundial pero tiene margen de mejora, no ha tocado techo”",
+      "source": "La Vanguardia",
+      "date": "2026-09-25",
+      "url": "https://lavanguardia.com/deportes/futbol/20260925/11644101/de-la-fuente-rodri-espana-wembley-nations.html",
+      "text": "El seleccionador desveló que la repercusión el triunfo en EE.UU. ha ido mucho más allá que el de la Euro",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Cultura",
+      "title": "Helena Guardans, nova presidenta de la Fundació del Gran Teatre del Liceu",
+      "source": "Catalunya Diari",
+      "date": "2026-09-25",
+      "url": "https://naciodigital.cat/cultura-i-mitjans/helena-guardans-nova-presidenta-de-la-fundacio-del-gran-teatre-del-liceu.html",
+      "text": "Agafa el relleu de Salvador Alemany després de deu anys amb l’objectiu de reforçar l’excel·lència artística, la projecció internacional i la connexió amb la societat",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Nicole Florensa, musa i pedestal de l’escultor Apel·les Fenosa",
+      "source": "VilaWeb",
+      "date": "2026-09-25",
+      "url": "https://vilaweb.cat/noticies/nicole-florensa-la-musa-i-el-pedestal-de-lescultor-apelles-fenosa",
+      "text": "La gravadora i fotògrafa parisenca, que aquesta setmana hauria fet cent anys, va preservar el llegat artístic i la memòria del seu marit",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Mobilitat",
+      "title": "“L’afecta” o “li afecta”?",
+      "source": "VilaWeb",
+      "date": "2026-09-25",
+      "url": "https://vilaweb.cat/noticies/afecta-li-afecta-transitius-intransitius",
+      "text": "Vegem casos de verbs que són transitius i de vegades els fem, erròniament, intransitius",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Drets humans",
+      "title": "Pau Pacheco: “Per la Diada, qualsevol excusa era bona per a pegar a joves independentistes”",
+      "source": "VilaWeb",
+      "date": "2026-09-25",
+      "url": "https://vilaweb.cat/noticies/entrevista-pau-pacheco-assemblea-joves-catalunya",
+      "text": "Entrevista a un dels presidents de l'Assemblea de Joves de Catalunya, les joventuts de l'ANC · Hi parlem de l'entitat i de la Diada d'enguany i les detencions i agressions dels Mossos",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Política",
+      "title": "“És extremadament perillós”: quatre anys després, Etiòpia torna a abocar-se al precipici de la guerra civil",
+      "source": "VilaWeb",
+      "date": "2026-09-25",
+      "url": "https://vilaweb.cat/noticies/etiopia-tigre-guerra-civil-escalada",
+      "text": "El govern etíop i els rebels del Tigre s'han culpat mútuament de la darrera escalada militar, que amenaça de reactivar el conflicte que deixà mig milió de morts entre el 2020 i el 2022",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Feminismes",
+      "title": "Les víctimes de la gota freda duen a Alacant el seu crit contra la condició d’aforat de Carlos Mazón",
+      "source": "VilaWeb",
+      "date": "2026-09-25",
+      "url": "https://vilaweb.cat/noticies/les-victimes-de-la-gota-freda-duen-a-alacant-el-seu-crit-contra-laforament-de-carlos-mazon",
+      "text": "Les víctimes volen manifestar la indignació pel comportament de Carlos Mazón, que continua sense donar explicacions, i contra el PP, que el manté a les Corts com a aforat",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Ecologia",
+      "title": "La paradoxa de Sánchez i la sang xuclada",
+      "source": "VilaWeb",
+      "date": "2026-09-25",
+      "url": "https://vilaweb.cat/noticies/article-pedro-sanchez-sang-xuclada-ot-bou",
+      "text": "El clima que es va creant per enderrocar “el sanchisme”, tan hostil, tan abrasiu, no es crea només per destruir Sánchez personalment, sinó per acabar d’anul·lar del tot la participació política de les forces que el van dur al poder",
+      "issue": null,
+      "parties": [
+        {
+          "party": "AC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Altres",
+      "title": "Can Codina: menú i vermuts compromesos amb la història",
+      "source": "VilaWeb",
+      "date": "2026-09-25",
+      "url": "https://vilaweb.cat/noticies/can-codina-menu-vermuts-historia",
+      "text": "El xamfrà de Gràcia on es fa cuina de xup-xup i els vermuts de sempre",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Boye: “He perdut trenta quilos, això et va corcant”",
+      "source": "VilaWeb",
+      "date": "2026-09-25",
+      "url": "https://vilaweb.cat/noticies/gonzalo-boye-absolt-he-perdut-trenta-quilos-aixo-et-va-corcant",
+      "text": "L'advocat mantenia el torcebraç i no afluixava, però la processó anava per dins, fins a l’alleujament de l’absolució",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Cultura",
+      "title": "Amunt l’autoestima lingüística",
+      "source": "VilaWeb",
+      "date": "2026-09-25",
+      "url": "https://vilaweb.cat/noticies/amunt-lautoestima-linguistica",
+      "text": "Fem botifarra als qui els fot que parlem català, tot aprofundint i millorant el nostre lèxic. Si ens han de vilipendiar, que ens vilipendiïn mentre nosaltres xerrem cofoiament recuperant tots els mots que hem anat perdent",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Mobilitat",
+      "title": "Un avió aterra d’emergència a l'aeroport del Prat després de detectar foc en un motor",
+      "source": "Catalunya Diari",
+      "date": "2026-09-25",
+      "url": "https://naciodigital.cat/societat/un-avio-aterra-demergencia-a-laeroport-del-prat-despres-de-detectar-foc-en-un-motor.html",
+      "text": "L’aparell de Delta Air Lines, que cobria la ruta Barcelona-Atlanta, ha hagut de fer mitja volta poc després d’enlairar-se",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "Trump, temptat per l'última oferta de l'Iran per reobrir Ormuz",
+      "source": "Ara",
+      "date": "2026-09-25",
+      "url": "https://ara.cat/internacional/estats-units/trump-temptat-l-ultima-oferta-l-iran-reobrir-ormuz_1_5860934.html",
+      "text": "Rere la retòrica bel·licista al faristol de l'ONU, Teheran sembla estar movent-se en una altra direcció. Als passadissos de l'Assemblea General de les Nacions Unides la delegació iraniana, que havia arribat a Nova York sense mostrar gens d'interès per…",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Mobilitat",
+      "title": "Aterratge d’emergència d’un avió de Delta Airlines a l’aeroport de Barcelona pel fum en un motor",
+      "source": "VilaWeb",
+      "date": "2026-09-25",
+      "url": "https://vilaweb.cat/noticies/aterratge-emergencia-avio-delta-airlines-aeroport-prat-fum-motor",
+      "text": "Protecció Civil activa el pla Aerocat en fase d’alerta per l’incident, que no ha causat danys personals ni materials",
+      "issue": null,
+      "parties": [
+        {
+          "party": "AC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Altres",
+      "title": "The US lays groundwork for possible military action in Cuba, according to 'CBS News'",
+      "source": "EuroNews",
+      "date": "2026-09-25",
+      "url": "https://euronews.com/2026/09/25/the-us-lays-groundwork-for-possible-military-action-in-cuba-according-to-cbs-news",
+      "text": "The US Army is considering deploying medical, logistics and military police units, as the Pentagon keeps plans ready for possible action in Cuba, the US broadcast network CBS is reporting exclusively.",
+      "issue": null,
+      "parties": [
+        {
+          "party": "AC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Feminismes",
+      "title": "Terribas torna a carregar contra l’Opus Dei",
+      "source": "Ara",
+      "date": "2026-09-25",
+      "url": "https://ara.cat/media/series/critiques/terribas-torna-carregar-l-opus-dei_129_5861185.html",
+      "text": "Després d' El minuto heroico , la sèrie documental que denunciava els abusos de l’Opus Dei contra les dones que formaven part de l’organització, ara Mònica Terribas repeteix l’exercici amb els homes a El buen espíritu (HBO Max). Aquesta segona producció és…",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Altres",
+      "title": "El destello de la puesta de la luna",
+      "source": "La Vanguardia · Barcelona",
+      "date": "2026-09-25",
+      "url": "https://lavanguardia.com/participacion/las-fotos-de-los-lectores/20260925/11643583/destello-puesta-luna.html",
+      "text": "“Brilla a través de una capa de nubes en la madrugada, como si fuera una mancha luminosa en el cielo”&nbsp;",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Mobilitat",
+      "title": "Renfe denuncia un robatori de dades d’usuaris a través de servidors d’Adif",
+      "source": "Catalunya Diari",
+      "date": "2026-09-25",
+      "url": "https://naciodigital.cat/societat/renfe-denuncia-un-robatori-de-dades-dusuaris-a-traves-de-servidors-dadif.html",
+      "text": "Renfe ha denunciat un robatori de dades d’usuaris a través de servidors informàtics d’ Adif després de patir diversos intents d’accés als seus sistemes durant setmanes. La companyia assegura que els ciberdelinq&uuml;ents poden haver accedit a informació…",
+      "issue": null,
+      "parties": [
+        {
+          "party": "AC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Mobilitat",
+      "title": "RENFE denuncia el robatori de dades d’usuaris en servidors d’ADIF",
+      "source": "VilaWeb",
+      "date": "2026-09-25",
+      "url": "https://vilaweb.cat/noticies/renfe-denuncia-robatori-dades-usuaris-traves-servidors-adif",
+      "text": "L’empresa diu que els ciberdelinqüents han accedit a no pas a dades bancàries ni sensibles",
+      "issue": null,
+      "parties": [
+        {
+          "party": "AC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Altres",
+      "title": "La centenària i luxosa marca Bentley presenta el seu primer cotxe elèctric",
+      "source": "Ara",
+      "date": "2026-09-25",
+      "url": "https://motor.ara.cat/novetats/centenaria-luxosa-marca-bentley-presenta-cotxe-electric_1_5861116.html",
+      "text": "107 anys després de la seva fundació, la marca anglesa Bentley, especialitzada en cotxes de luxe i alt rendiment, ha presentat el seu primer cotxe elèctric, que ha batejat amb el nom de Torcal i que té una fitxa tècnica realment impressionant. El flamant…",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Mobilitat",
+      "title": "Roben noms i correus electrònics de clients de les webs d'Adif i Renfe",
+      "source": "Ara",
+      "date": "2026-09-25",
+      "url": "https://ara.cat/societat/mobilitat/roben-noms-correus-electronics-clients-webs-d-adif-renfe_25_5861192.html",
+      "text": "Un grup criminal ha fet diversos ciberatacs a les webs d'Adif i Renfe i ha aconseguit accedir a informació limitada d'usuaris, principalment noms i adreces de correu electrònic. En aquests moments, l'anàlisi continua en curs, segons informa Renfe en un…",
+      "issue": null,
+      "parties": [
+        {
+          "party": "AC",
+          "count": 1
+        }
+      ]
     },
     {
       "topic": "Mobilitat",
@@ -53,62 +1396,12 @@
       "parties": []
     },
     {
-      "topic": "Altres",
-      "title": "Interceptados 74 magrebíes llegados este viernes en cuatro pateras a Baleares",
-      "source": "El Objective",
-      "date": "2026-09-25",
-      "url": "https://theobjective.com/sociedad/suceso/2026-09-25/interceptados-74-inmigrantes-llegados-viernes-cuatro-pateras-baleares",
-      "text": "Un total de 74 inmigrantes magrebíes han sido interceptados a lo largo de este viernes tras conseguir llegar a bordo de cuatro pateras a las costas […]",
-      "issue": null,
-      "parties": []
-    },
-    {
       "topic": "Treball",
       "title": "Els busos de TMB anuncien set noves jornades de vaga parcial a l’octubre",
       "source": "Catalunya Diari",
       "date": "2026-09-25",
       "url": "https://naciodigital.cat/societat/els-busos-de-tmb-anuncien-set-noves-jornades-de-vaga-parcial-a-loctubre.html",
       "text": "Els treballadors dels autobusos de TMB han anunciat set noves jornades de vaga parcial a l’octubre després que no hagi prosperat el preacord amb l’empresa. Les aturades seran els dies 8, 14, 15, 20, 22, 27 i 29 . Les protestes es faran en tres franges…",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Madrid buscará una solución para Maricarmen tras rechazar el plan de Urbagestión por «ilegal»",
-      "source": "El Objective",
-      "date": "2026-09-25",
-      "url": "https://theobjective.com/sociedad/2026-09-25/madrid-buscara-solucion-maricarmen-rechazar-plan-urbagestion",
-      "text": "El Ayuntamiento de Madrid ha avanzado este viernes que mediará entre la representación legal de Maricarmen Abascal, la mujer de 87 años desahuciada esta semana de […]",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Xi termina su viaje de tres días a EEUU en los Archivos Nacionales junto a Donald Trump",
-      "source": "El Objective",
-      "date": "2026-09-25",
-      "url": "https://theobjective.com/internacional/2026-09-25/xi-termina-viaje-tres-dias-eeuu-archivos-nacionales-junto-donald-trump",
-      "text": "El presidente de China, Xi Jinping, cerró este viernes su viaje de Estado de tres días a Washington con una visita a los Archivos Nacionales en […]",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Dos aviones aterrizan de emergencia en Valencia y Barcelona en apenas unas horas",
-      "source": "El Objective",
-      "date": "2026-09-25",
-      "url": "https://theobjective.com/sociedad/suceso/2026-09-25/dos-aviones-emergencia-valencia-barcelona",
-      "text": "Dos aviones han tenido que realizar aterrizajes de emergencia este viernes en los aeropuertos de Valencia y Barcelona en dos incidentes diferentes registrados con apenas unas […]",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "El Ayuntamiento de Madrid rechaza la propuesta de Urbagestión, pero se abre a una mediación",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/vida/20260925/11644090/ayuntamiento-madrid-rechaza-propuesta-urbagestion-abre-mediacion.html",
-      "text": "El próximo lunes se reunirán la representante de Maricarmen y la inmobiliaria para negociar una salida",
       "issue": null,
       "parties": []
     },
@@ -131,21 +1424,6 @@
       "text": "El Gran Premio de este fin de semana cambia de día y lo podrás ver igualmente en DAZN si tienes contratado el Plan Motor o el Plan Premium",
       "issue": null,
       "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Un diputado de Vox manda «a tomar por culo» al presidente del parlamento asturiano",
-      "source": "El Objective",
-      "date": "2026-09-25",
-      "url": "https://theobjective.com/espana/politica/2026-09-25/diputado-vox-presidente-parlamento-asturiano",
-      "text": "Un diputado del grupo parlamentario de Vox, Gonzalo Centeno, ha protagonizado este viernes un enfrentamiento verbal con el presidente de la Cámara asturiana, el socialista Juan […]",
-      "issue": null,
-      "parties": [
-        {
-          "party": "Vox",
-          "count": 1
-        }
-      ]
     },
     {
       "topic": "Altres",
@@ -173,14 +1451,19 @@
       ]
     },
     {
-      "topic": "Altres",
-      "title": "VÍDEO | La farsa de Maricarmen | OBJETIVO DIRECTO",
-      "source": "El Objective",
+      "topic": "Mobilitat",
+      "title": "Dos accidents mortals de parapent al Bages en menys de 48 hores",
+      "source": "Ara",
       "date": "2026-09-25",
-      "url": "https://theobjective.com/videos/espana/2026-09-25/farsa-maricarmen-objetivo-directo",
-      "text": "Obre la font per llegir la notícia completa.",
+      "url": "https://ara.cat/societat/successos/accidents-mortals-parapent-bages-menys-48-hores_25_5861135.html",
+      "text": "Dos homes han mort en un accident de parapent entre dijous i avui, divendres. La primera víctima mortal és un home de 35 anys que dijous va caure accidentalment al buit al municipi de Castellfollit del Boix, al Bages, segons informen els Bombers de la…",
       "issue": null,
-      "parties": []
+      "parties": [
+        {
+          "party": "AC",
+          "count": 1
+        }
+      ]
     },
     {
       "topic": "Salut",
@@ -214,11 +1497,11 @@
     },
     {
       "topic": "Altres",
-      "title": "El Congreso abrirá expediente a la diputada del PP Ana Vázquez por el espray de gas pimienta",
-      "source": "El Objective",
+      "title": "Protests erupt in Granada after eviction of 87-year-old woman in Madrid",
+      "source": "EuroNews",
       "date": "2026-09-25",
-      "url": "https://theobjective.com/espana/politica/2026-09-25/congreso-expediente-ana-vazquez-gas-pimienta",
-      "text": "La Mesa del Congreso tratará el próximo martes el inicio de un procedimiento sancionador a Ana Vázquez, la diputada del PP que llevó un espray tóxico […]",
+      "url": "https://euronews.com/video/2026/09/25/protests-erupt-in-granada-after-eviction-of-87-year-old-woman-in-madrid",
+      "text": "Protesters gathered in Granada in support of 87-year-old Maricarmen Abascal after she was evicted from her Madrid apartment.",
       "issue": null,
       "parties": []
     },
@@ -229,16 +1512,6 @@
       "date": "2026-09-25",
       "url": "https://euronews.com/2026/09/25/iran-proposes-plan-to-us-to-reopen-hormuz-in-seven-days-and-end-the-war",
       "text": "Iran’s foreign minister has proposed a seven-day roadmap to Washington by which Iran would reopen the Strait of Hormuz within seven days if the US lifts its naval blockade, together with other conditions aimed at ending the war.",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Putin cesa a los embajadores rusos en Reino Unido y Francia",
-      "source": "El Objective",
-      "date": "2026-09-25",
-      "url": "https://theobjective.com/internacional/2026-09-25/putin-cesa-embajadores-rusos-reino-unido-francia",
-      "text": "El presidente de Rusia, Vladímir Putin, ha destituido entre ayer y hoy a los embajadores rusos en el Reino Unido y Francia, informaron medios locales. El […]",
       "issue": null,
       "parties": []
     },
@@ -259,46 +1532,11 @@
     },
     {
       "topic": "Altres",
-      "title": "El Supremo de EEUU permite a Trump aplicar un sistema de control de votantes",
-      "source": "El Objective",
-      "date": "2026-09-25",
-      "url": "https://theobjective.com/internacional/2026-09-25/tribunal-supremo-eeuu-trump-sistema-control-votantes",
-      "text": "El Tribunal Supremo de Estados Unidos ha permitido este viernes a la Administración de Donald Trump utilizar un sistema de verificación de la ciudadanía para detectar […]",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "El Ejército de EEUU se prepara para una acción militar en Cuba",
-      "source": "El Objective",
-      "date": "2026-09-25",
-      "url": "https://theobjective.com/internacional/2026-09-25/ejercito-ee-uu-prepara-accion-militar-cuba",
-      "text": "El Ejército de EEUU se está preparando para una acción militar en Cuba, según informaciones publicadas este viernes por parte de la CBS. Estas llegan en […]",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Altres",
       "title": "Naty Abascal desfila para Gucci en la semana de la moda de Milán",
       "source": "La Vanguardia",
       "date": "2026-09-25",
       "url": "https://lavanguardia.com/gente/20260925/11644057/naty-abascal-desfila-gucci-semana-moda-milan.html",
       "text": "La modelo española aparece por sorpresa en la pasarela de la firma italiana con un look clásico y elegante",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Bruselas expedienta a España por no aplicar la reforma que endurece la lucha contra la trata",
-      "source": "El Objective",
-      "date": "2026-09-25",
-      "url": "https://theobjective.com/economia/2026-09-25/bruselas-expedienta-espana-reforma-endurece-lucha-trata",
-      "text": "La Comisión Europea ha anunciado este viernes un expediente sancionador contra una veintena de Estados miembro, incluido España, por no cumplir plenamente en el plazo fijado […]",
       "issue": null,
       "parties": []
     },
@@ -353,16 +1591,6 @@
       "parties": []
     },
     {
-      "topic": "Altres",
-      "title": "La visita del papa León XIV a Francia y otras imágenes del día",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/fotos/20260925/11643996/visita-papa-leon-xiv-francia-imagenes-dia.html",
-      "text": "Las fotografías del día muestran un mundo en contraste, entre la devastación de los incendios, la tensión de los conflictos armados y la fuerza de las tradiciones.",
-      "issue": null,
-      "parties": []
-    },
-    {
       "topic": "Barris",
       "title": "Un referèndum congelat i un mur de silenci",
       "source": "Catalunya Diari",
@@ -394,21 +1622,21 @@
     },
     {
       "topic": "Altres",
-      "title": "El Manchester City, declarado culpable de incumplir las normas financieras de la Premier",
-      "source": "El Objective",
-      "date": "2026-09-25",
-      "url": "https://theobjective.com/deportes/futbol/2026-09-25/manchester-city-declarado-culpable-incumplir-normas-financieras-premier",
-      "text": "El Manchester City ha sido declarado culpable de prácticamente todos los cargos de infracción de las normas financieras de la Premier League, según ha informado este […]",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
       "title": "Desenes d'ucraïnesos protesten davant el Liceu per la presència d’Anna Netrebko a 'Aida'",
       "source": "Ara",
       "date": "2026-09-25",
       "url": "https://ara.cat/cultura/opera/desenes-d-ucrainesos-protesten-davant-liceu-presencia-d-anna-netrebko-aida_8_5860976.html",
       "text": "Obre la font per llegir la notícia completa.",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "Cultura",
+      "title": "Unes desenes d'ucraïnesos protesten davant el Liceu per la presència d’Anna Netrebko a 'Aida’",
+      "source": "Ara",
+      "date": "2026-09-25",
+      "url": "https://ara.cat/cultura/opera/desenes-d-ucrainesos-protesten-davant-liceu-presencia-d-anna-netrebko-aida_25_5860965.html",
+      "text": "Unes desenes d’ucraïnesos protesten davant del Liceu per la presència de la soprano russa Anna Netrebko en el repartiment de l’òpera ‘Aida’ que inaugura la temporada 2026/27 del teatre de la Rambla. “Vergonya per al Liceu, Putin terrorista”, criden.",
       "issue": null,
       "parties": []
     },
@@ -434,16 +1662,6 @@
     },
     {
       "topic": "Altres",
-      "title": "Mónica García defiende una arquitectura de salud global con la OMS «fuerte y en el centro»",
-      "source": "El Objective",
-      "date": "2026-09-25",
-      "url": "https://theobjective.com/internacional/2026-09-25/monica-garcia-salud-global-oms-fuerte-centro",
-      "text": "La ministra de Sanidad, Mónica García, ha defendido una arquitectura de salud global menos fragmentada y mejor coordinada, con una Organización Mundial de la Salud (OMS) […]",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
       "title": "Un avión de Swiss Air aterriza de emergencia en Valencia y causa el desvío de varios vuelos",
       "source": "La Vanguardia · Barcelona",
       "date": "2026-09-25",
@@ -455,7 +1673,7 @@
     {
       "topic": "Altres",
       "title": "Mompó propone una “hoja de ruta compartida” para el Principal y el sector pide “coordinación”",
-      "source": "La Vanguardia",
+      "source": "La Vanguardia · Barcelona",
       "date": "2026-09-25",
       "url": "https://lavanguardia.com/local/valencia/20260925/11644053/mompo-propone-hoja-ruta-compartida-principal-sector-pide-coordinacion.html",
       "text": "El presidente de la Diputació de Valencia pide al Gobierno implicación con el teatro valenciano “tal como en el Teatro Real de Madrid o el Liceu de Barcelona”",
@@ -473,16 +1691,6 @@
       "parties": []
     },
     {
-      "topic": "Altres",
-      "title": "La farsa de Maricarmen",
-      "source": "El Objective",
-      "date": "2026-09-25",
-      "url": "https://theobjective.com/sociedad/2026-09-25/farsa-maricarmen-objetivo-directo",
-      "text": "Maricarmen tuvo en vida dos lujos que un joven español nunca tendrá: una pensión generosa y 70 años de un alquiler regalado en el centro de […]",
-      "issue": "rendes-lloguer",
-      "parties": []
-    },
-    {
       "topic": "Cultura",
       "title": "Un entretingut homenatge als fundadors del Lliure",
       "source": "Ara",
@@ -491,21 +1699,6 @@
       "text": "L’estrena de La bella Helena al Teatre Lliure dirigida per Pere Planella el 1979 va constituir el primer gran èxit popular de la companyia que havia obert el teatre de Gràcia feia tres anys amb Camí de nit . La proposta de Miquel Mas Fiol que commemora els…",
       "issue": null,
       "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Trump acepta la invitación de Xi para visitar China con motivo de la cumbre de la APEC",
-      "source": "El Objective",
-      "date": "2026-09-25",
-      "url": "https://theobjective.com/internacional/2026-09-25/trump-acepta-invitacion-xi-visitar-china-cumbre-apec",
-      "text": "El presidente de Estados Unidos, Donald Trump, ha aceptado este viernes la invitación de su homólogo chino, Xi Jinping, para visitar el país asiático con motivo […]",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
     },
     {
       "topic": "Política",
@@ -534,26 +1727,6 @@
     },
     {
       "topic": "Altres",
-      "title": "Un jurista del PP exige revisar las inscripciones de nacionalizados en el censo electoral",
-      "source": "El Objective",
-      "date": "2026-09-25",
-      "url": "https://theobjective.com/espana/politica/2026-09-25/jurista-pp-exige-revisar-inscripcionese-nacionalizados-censo-electoral",
-      "text": "Uno de los juristas que el PP propuso para la Junta Electoral Central ha defendido la conveniencia de revisar todas las inscripciones en el Censo Electoral […]",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Bruselas expedienta a España por no aplicar las nuevas reglas contra el blanqueo de capitales",
-      "source": "El Objective",
-      "date": "2026-09-25",
-      "url": "https://theobjective.com/economia/2026-09-25/bruselas-expedienta-espana-no-aplicar-las-nuevas-reglas-contra-blanqueo-capitales",
-      "text": "La Comisión Europea ha abierto este viernes un expediente sancionador contra España y otros 17 países por no haber trasladado plenamente a su legislación nacional determinadas […]",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
       "title": "La estrategia de Los Javis: un triunfo en quince golpes",
       "source": "La Vanguardia",
       "date": "2026-09-25",
@@ -566,16 +1739,6 @@
           "count": 1
         }
       ]
-    },
-    {
-      "topic": "Altres",
-      "title": "La Junta Electoral publica las reglas para determinar a qué municipio va el voto exterior",
-      "source": "El Objective",
-      "date": "2026-09-25",
-      "url": "https://theobjective.com/espana/politica/2026-09-25/junta-electoral-reglas-determinar-municipio-voto-exterior",
-      "text": "La Junta Electoral Central (JEC) ha publicado este viernes la instrucción que regirá en las oficinas consulares a la hora de adscribir a un municipio a […]",
-      "issue": null,
-      "parties": []
     },
     {
       "topic": "Política",
@@ -693,202 +1856,17 @@
       "source": "Ara",
       "date": "2026-09-25",
       "url": "https://ara.cat/previsions/primers-indicis-canvis-cap-setmana_1_5860777.html",
-      "text": "La calor ha tocat sostre aquest divendres amb un atípic pic de temperatures que ha deixat valors més propis de plena canícula d’estiu que no pas dels primers dies de la tardor, sobretot al sud i a Ponent. S’han assolit els 37 ºC a Aldover (Baix Ebre) i els…",
+      "text": "La calor va tocar sostre aquest divendres amb un atípic pic de temperatures que va deixar valors més propis de plena canícula d’estiu que no pas dels primers dies de la tardor, sobretot al sud i a Ponent. Calor desbocada que va deixar fins a 37,4 ºC al pantà…",
       "issue": null,
       "parties": []
     },
     {
       "topic": "Altres",
       "title": "Volkswagen y Audi retiran casi tres millones de vehículos en todo el mundo por un fallo técnico",
-      "source": "La Vanguardia",
+      "source": "La Vanguardia · Economia",
       "date": "2026-09-25",
       "url": "https://lavanguardia.com/economia/20260925/11644027/volkswagen-audi-retiran-tres-millones-vehiculos-mundo-fallo-tecnico.html",
       "text": "Tendrán que&nbsp;ser sometidos a ajustes debido a posibles problemas en el sistema de dirección",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Comparativa de paraguas plegables 2026: los mejores",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/comprar/mas-valorados/20260925/11635259/mejores-paraguas-plegables-comparativa-mkt-eo.html",
-      "text": "Tenemos la guía perfecta con los 5 mejores paraguas plegables para lluvia y viento, con opciones compactas, automáticas, invertidas, XL y para niños, para ayudarte a elegir el modelo más adecuado para cada uso",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Volkswagen i Audi fan passar pel taller tres milions de vehicles per un error en la direcció",
-      "source": "VilaWeb",
-      "date": "2026-09-25",
-      "url": "https://vilaweb.cat/noticies/volkswagen-audi-taller-tres-milions-vehicles-error-direccio",
-      "text": "L’avaria podria causar el trencament d’un caragol del sistema de direcció · Els vehicles afectats hauran de passar pel taller per substituir-lo",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "'Los infinitos' de John Banville",
-      "source": "La Vanguardia · Cultura",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/cultura/20260925/11644012/infinitos-john-banville.html",
-      "text": "Un fragmento de la novela que el autor irlandés escribió tras ganar el Booker, sobre un patriarca en coma a cuyo alrededor se convocan sus allegados, obra que Alfaguara acaba de reeditar&nbsp;",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Altres",
-      "title": "Andrés Guerra: “A Daniel Sancho le quedan muchos años de cárcel en Tailandia”",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/videos/claves-del-dia/20260925/11644007/andres-guerra-daniel-sancho-le-quedan-anos-carcel-tailandia.html",
-      "text": "El periodista de La Vanguardia analiza el rechazo al recurso de la defensa, los próximos pasos judiciales y las condiciones en las que Sancho cumple cadena perpetua",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "El registro horario se retrasa de nuevo y no se aprobará en septiembre",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/economia/20260925/11644014/registro-horario-retrasa-nuevo-aprobara-septiembre.html",
-      "text": "A pesar del compromiso de adoptarlo este mes, el Consejo de Ministros del martes tampoco lo&nbsp; tratará",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "El Papa pide preservar la dignidad humana frente a la inteligencia artificial",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/internacional/20260925/11643987/papa-pide-preservar-dignidad-humana-frente-inteligencia-artificial.html",
-      "text": "León XIV visita la Unesco, la agencia de la ONU que los Estados Unidos de Trump vuelven a abandonar en diciembre",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Ada Colau ja no diu que no: serà candidata a Espanya si es repeteix «un front realment ampli» d'esquerres",
-      "source": "Catalunya Diari",
-      "date": "2026-09-25",
-      "url": "https://naciodigital.cat/politica/ada-colau-ja-no-diu-que-no-sera-candidata-a-espanya-si-es-repeteix-un-front-realment-ampli-desquerres.html",
-      "text": "Les formacions que integren Sumar ultimen la presentació de la candidatura sota la marca de \"Front Ampli\"",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Matinée con 'La bola negra': “Es una obra maestra”",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/cultura/20260925/11643975/matinee-embajadores-bola-negra.html",
-      "text": "El primer pase, a las 11.45 h, de la esperada película de Javier Calvo y Javier Ambrossi despierta expectación",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Watch: Pope Leo XIV warns AI could threaten humanity in ‘paradise of machines’",
-      "source": "EuroNews",
-      "date": "2026-09-25",
-      "url": "https://euronews.com/video/2026/09/25/watch-pope-leo-xiv-warns-ai-could-threaten-humanity-in-paradise-of-machines",
-      "text": "Pope Leo XIV has warned against losing humanity in a “paradise of machines” as artificial intelligence increasingly shapes daily life. During his first papal visit to France, he called for greater ethical discernment and for keeping human beings at the centre…",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Zapatero se opone a una nueva tasación de las joyas de Arabia",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/politica/20260925/11643986/zapatero-opone-nueva-tasacion-joyas-halladas-oficina.html",
-      "text": "El expresidente del gobierno propondrá un perito para valorar las alhajas si el juez mantiene la diligencia",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Four suspects arrested over murder of Dominican merengue singer's wife",
-      "source": "EuroNews",
-      "date": "2026-09-25",
-      "url": "https://euronews.com/2026/09/25/four-suspects-arrested-over-murder-of-dominican-merengue-singers-wife",
-      "text": "The artist was seriously injured and his wife, 60-year-old Zeneida Socorro Castillo, was killed. According to investigators, she was tortured for six hours in her home in Santo Domingo.",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Altres",
-      "title": "Putin té plans per atacar l’OTAN? Així es veu des de Rússia",
-      "source": "Ara",
-      "date": "2026-09-25",
-      "url": "https://ara.cat/internacional/russia/putin-plans-atacar-l-otan-aixi-veu-des-russia_1_5859800.html",
-      "text": "\"No només és una ximpleria, sinó també un exemple de provocació\". Vladímir Putin s'ha fet tips de negar la seva responsabilitat en els actes de sabotatge que les autoritats europees atribueixen a Moscou i de menysprear els informes d'intel·ligència…",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Altres",
-      "title": "Helena Guardans expresa su voluntad de impulsar “la valentía creativa del Liceu”",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/cultura/20260925/11643981/helena-guardans-expresa-voluntad-impulsar-valentia-creativa-liceu.html",
-      "text": "La hasta ahora presidenta del consejo de mecenazgo del teatro releva a Salvador Alemany al frente de la nave",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Baleares cierra la puerta a nuevos chalés en el campo que no tengan una explotación agraria",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/economia/20260925/11643972/baleares-cierra-puerta-nuevos-chales-campo-tengan-explotacion-agraria.html",
-      "text": "Solo en Mallorca se calcula que que existen más de 60.000 chalés construidos en suelo rústico",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "“Las fronteras no son físicas, sino morales: marcan quiénes son menos merecedores de dignidad”",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/cultura/20260925/11636331/noor-ammar-lamarty-novela-colonialismo-identidad-frontera-marruecos-ceuta.html",
-      "text": "La consultora jurídica marroquí publica 'Antes de que existiese un nombre', una novela que narra una historia de amor marcada por el exilio, el colonialismo, la identidad y las fronteras que separan a las personas",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "El City, culpable de violar les regles financeres de la Premier League",
-      "source": "Ara",
-      "date": "2026-09-25",
-      "url": "https://ara.cat/esports/futbol/mancity-culpable-violar-regles-financeres-premier-league_25_5860807.html",
-      "text": "El Manchester City, fins la temporada passada l'equip de Pep Guardiola, ha estat considerat responsable de 114 de les 115 irregularitats financeres que investigava la Premier League. El club sempre ha defensat la seva innocència, però ara s'enfronta fins i…",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "El City, con la soga al cuello: culpable de 114 cargos sobre el 'fair play' financiero en la Premier",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/deportes/futbol/20260925/11643977/city-culpable-114-cargos-sobre-fair-play-financiero-premier.html",
-      "text": "El proceso sigue su curso y las posibles sanciones están por determinar, según 'The Times' y 'The Athletic'",
       "issue": null,
       "parties": []
     },
@@ -912,82 +1890,12 @@
       ]
     },
     {
-      "topic": "Altres",
-      "title": "El Congreso abrirá expediente a Ana Vázquez el martes por el espray de gas pimienta",
-      "source": "La Vanguardia",
+      "topic": "LGTBIQ+",
+      "title": "Aitana Bonmatí, novetat per al viatge a Logronyo, que té una baixa inesperada",
+      "source": "Ara",
       "date": "2026-09-25",
-      "url": "https://lavanguardia.com/politica/20260925/11643973/congreso-abrira-expediente-ana-vazquez-martes-espray-gas-pimienta.html",
-      "text": "El PP admite el “error” del vaciado del bote en los baños de la Cámara Baja pero defiende a la diputada",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Llort presenta un primer libro de relatos breves con la incomodidad como punto de unión",
-      "source": "La Vanguardia · Cultura",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/cultura/20260925/11643949/llort-relatos-breves-incomodidad-short-literatura.html",
-      "text": "El escritor presenta ‘Short’, en que mezcla cuentos de varia extensión pero tiende al microcuento y al aforismo",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Deep mining for memories: Greece opens digital archive to preserve Serifos ironworks history",
-      "source": "EuroNews",
-      "date": "2026-09-25",
-      "url": "https://euronews.com/2026/09/25/deep-mining-for-memories-greece-opens-digital-archive-to-preserve-serifos-ironworks-histor",
-      "text": "\"The Living History of the Serifos Mines\", a project by the Friends of Serifos funded by Cycladic Identity, has created a digital archive of Greek mineworkers' history and memories.",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Llort presenta un primer llibre de relats curts al voltant de la incomoditat",
-      "source": "La Vanguardia · Cultura",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/encatala/20260925/11643950/llort-contes-negres-short-literatura.html",
-      "text": "L’escriptor presenta ‘Short’, en què barreja contes llargs però s’escurça fins al microconte al caire de l’aforisme",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Abismo fatal con la 'Manon' del Real (★★★✩✩)",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/cultura/20260925/11643958/critica-manon-teatro-real.html",
-      "text": "El Real inauguró su 30.ª edición desde su reapertura con una producción funcional, un doble reparto desigual y una orquesta de gran calidad",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Espectáculo en el cielo de Campdevànol",
-      "source": "La Vanguardia · Barcelona",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/participacion/las-fotos-de-los-lectores/20260925/11643509/espectaculo-cielo-campdevanol.html",
-      "text": "“La meteorología invita a contemplar las bellas nubes que, coloreadas, coronan las casas de la población”",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Chequia deja a España sin final en la Copa Billie Jean King",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/deportes/20260925/11643946/chequia-deja-espana-final-copa-billie-jean-king.html",
-      "text": "Jessica Bouzas y Cristina Bucsa no pudieron con Karolina Muchova y Linda Noskova",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Ukraine: Russian drone barrage on Kyiv kills teenage boy and wounds 20 residents",
-      "source": "EuroNews",
-      "date": "2026-09-25",
-      "url": "https://euronews.com/video/2026/09/25/ukraine-russian-drone-barrage-on-kyiv-kills-teenage-boy-and-wounds-20-residents",
-      "text": "A 14-year-old boy was killed after a Russian drone tore into a 16-storey apartment block in Kyiv’s Pecherskyi district overnight on Friday 25 September 2026.",
+      "url": "https://ara.cat/esports/barca-femeni/aitana-bonmati-novetat-viatjar-logronyo-baixa-inesperada_25_5860477.html",
+      "text": "Aitana Bonmatí torna a una convocatòria després de gairebé quatre mesos. La migcampista de Sant Pere de Ribes no juga amb el Barça des del 31 de maig, quan va tenir minuts al camp del Madrid CFF, per unes molèsties al turmell esquerre.",
       "issue": null,
       "parties": []
     },
@@ -1017,46 +1925,6 @@
       ]
     },
     {
-      "topic": "Altres",
-      "title": "Trump advierte a Xi Jinping que el apoyo de China a Irán es inaceptable",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/internacional/20260925/11643942/trump-advierte-xi-jinping-apoyo-china-iran-inaceptable.html",
-      "text": "Pekín es el único poder al que Teherán puede ser sensible en su posición ante la guerra",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Drets humans",
-      "title": "El jutge dona tres dies a la parella de l’arquitecte Josep Joanpere per pagar una fiança de 80.000 euros i evitar la presó",
-      "source": "VilaWeb",
-      "date": "2026-09-25",
-      "url": "https://vilaweb.cat/noticies/preso-provisional-amb-una-fianca-de-80-000-euros-per-la-parella-de-larquitecte-josep-juanpere",
-      "text": "La dona ha passat a disposició judicial a Vielha després de ser detinguda dimecres a Madrid",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Estos son los supermercados más baratos de España, según la OCU",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/economia/20260925/11643936/diferencia-supermercados-espana-permite-ahorrar-1-310-euros-media-ano.html",
-      "text": "Destacan Supermercados Dani, Family Cash, Tifer Alcampo y Supeco frente a las más caras Hipercor, El Corte Inglés, Supercor y Sánchez Romero",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "La pareja del arquitecto Josep Juanpere queda en libertad a la espera de abonar la fianza",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/sucesos/20260925/11643938/prision-provisional-fianza-mujer-arquitecto-josep-juanpere-presunto-asesinato.html",
-      "text": "El juez decreta prisión provisional eludible con una fianza de 80.000 euros y le da tres días para depositarla",
-      "issue": null,
-      "parties": []
-    },
-    {
       "topic": "Feminismes",
       "title": "'La Barcelona flamenca', lo que también somos (★★★★✩)",
       "source": "La Vanguardia · Cultura",
@@ -1080,176 +1948,6 @@
           "count": 1
         }
       ]
-    },
-    {
-      "topic": "Altres",
-      "title": "Damiano David y Dove Cameron se dan el “sí, quiero” en la Toscana: todos los detalles de su boda italiana",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/gente/20260925/11643930/damiano-david-dove-cameron-dan-quiero-toscana-todos-detalles-boda-italiana.html",
-      "text": "La pareja pone el broche de oro a su relación con una ceremonia civil precedida por una exclusiva fiesta en el&nbsp;Castiglion del Bosco",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "El nuevo Sumar acelera para presentar en octubre su candidatura bajo la marca Frente Amplio",
-      "source": "La Vanguardia · Política",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/politica/20260925/11643903/nuevo-sumar-acelera-presentar-octubre-candidatura-marca-frente-amplio.html",
-      "text": "Las negociaciones han avanzado con rapidez este septiembre después de un verano de dudas sobre las siglas y su liderazgo",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Altres",
-      "title": "Muere un hombre que resultó herido en el intento de asesinato contra Trump en 2024",
-      "source": "La Vanguardia · Internacional",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/internacional/20260925/11643927/muere-hombre-resulto-herido-intento-asesinato-trump-2024.html",
-      "text": "Copenhaver recibió disparos en el brazo y en el abdomen, lo que le dejó secuelas y le obligó a caminar con bastón desde entonces",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "‘Sunlight salary’: Exactly how much solar panels knock off your energy bills – even under grey skies",
-      "source": "EuroNews",
-      "date": "2026-09-25",
-      "url": "https://euronews.com/2026/09/25/sunlight-salary-exactly-how-much-solar-panels-knock-off-your-energy-bills-even-under-grey-",
-      "text": "Despite the money they can save households on electricity bills, just one in 10 European roofs has solar panels.",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Obesity and overweight cost European economies billions of euros a year, industry says",
-      "source": "EuroNews",
-      "date": "2026-09-25",
-      "url": "https://euronews.com/2026/09/25/obesity-and-overweight-cost-european-economies-billions-of-euros-a-year-industry-says",
-      "text": "Obesity and overweight are costing European economies billions of euros every year, with the burden equivalent to what some countries spend on housing or defence, according to a pharmaceutical industry’s report.",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Altres",
-      "title": "Los servicios sociales del Ayuntamiento de Madrid consideran que Maricarmen “no puede vivir sola” por su grado de dependencia",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/local/madrid/20260925/11643904/servicios-sociales-ayuntamiento-madrid-consideran-maricarmen-vivir-sola-grado-dependencia.html",
-      "text": "&nbsp;La&nbsp; mujer vuelve a rechazar la propuesta municipal de residir en un geriátrico",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Rural",
-      "title": "Unió de Pagesos demana de mantenir les restriccions a Collserola contra la pesta porcina africana",
-      "source": "VilaWeb",
-      "date": "2026-09-25",
-      "url": "https://vilaweb.cat/noticies/unio-de-pagesos-mantenir-restriccions-collserola-pesta-porcina",
-      "text": "Insisteix que la lluita per eradicar la malaltia encara no s’ha acabat i demana el compromís dels ciutadans",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Altres",
-      "title": "El Kremlin celebra la elección de casi 50 veteranos de la guerra de Ucrania como diputados",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/internacional/20260925/11643905/el-kremlin-celebra-la-eleccion-de-casi-50-veteranos-de-la-guerra-de-ucrania-como-diputados.html",
-      "text": "La Comisión Electoral rusa confirma oficialmente la mayoría constitucional (más de dos tercios) de Rusia Unida, el partido de Putin",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Small businesses in rural France bears the brunt of energy crisis triggered by Iran war",
-      "source": "EuroNews",
-      "date": "2026-09-25",
-      "url": "https://euronews.com/2026/09/25/small-businesses-in-rural-france-bears-the-brunt-of-energy-crisis-triggered-by-iran-war",
-      "text": "In the Oise department, soaring energy prices driven by the war in Iran are hitting rural businesses hard, as they face rocketing bills for heating oil and diesel.",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "From Croatia without waste: “truly circular” process offers hazardous chemicals a second life",
-      "source": "EuroNews",
-      "date": "2026-09-25",
-      "url": "https://euronews.com/2026/09/25/from-croatia-without-waste-truly-circular-process-offers-hazardous-chemicals-a-second-life",
-      "text": "A clean-tech company in Croatia claims to recycle around three million kilograms of polluted solvents annually – without any waste. An “efficient, safe and economically valuable” recycling process of hazardous chemicals… made in Europe.",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Hungary dramatically cuts EU defence loan request under new government",
-      "source": "EuroNews",
-      "date": "2026-09-25",
-      "url": "https://euronews.com/2026/09/25/hungary-dramatically-cuts-eu-defence-loan-request-under-new-government",
-      "text": "The administration of Hungarian Prime Minister Péter Magyar has significantly reduced its requested EU defence loan, from €16.4 billion to €5.4 billion, Brussels announced on Friday.",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "EU countries agree to release long-stalled €6.6 billion in military aid for Ukraine",
-      "source": "EuroNews",
-      "date": "2026-09-25",
-      "url": "https://euronews.com/2026/09/25/eu-countries-agree-to-release-long-stalled-66-billion-in-military-aid-for-ukraine",
-      "text": "The decision to release €6.6 billion through the European Peace Facility comes at a critical juncture for Ukraine, which is grappling with a significant shortfall in its Ministry of Defence budget that could jeopardize drone deliveries.",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Euronews Culture's Film of the Week: 'Primetime' - Robert Pattinson needs to catch his predator (and ratings)",
-      "source": "EuroNews",
-      "date": "2026-09-25",
-      "url": "https://euronews.com/2026/09/25/euronews-cultures-film-of-the-week-primetime-robert-pattinson-needs-to-catch-his-predator-",
-      "text": "Lance Oppenheim’s narrative debut features a masterful turn from Robert Pattinson in a dark media satire about blurring the lines between journalism and exploitation. Primetime will fascinate and occasionally frustrate as a surface-level mood piece.",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Explosion near Acropolis collapses building in Athens’ Plaka, injuring two",
-      "source": "EuroNews",
-      "date": "2026-09-25",
-      "url": "https://euronews.com/video/2026/09/25/explosion-near-acropolis-collapses-building-in-athens-plaka-injuring-two",
-      "text": "A powerful explosion in Athens’ historic Plaka district brought down a two-storey building near the Acropolis on Friday 25 September 2026, injuring at least two people. The cause remains under investigation, although a gas leak is suspected.",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Altres",
-      "title": "Euronews explains: What would a US diesel export ban mean to European countries?",
-      "source": "EuroNews",
-      "date": "2026-09-25",
-      "url": "https://euronews.com/2026/09/25/euronews-explains-what-would-a-us-diesel-export-ban-mean-to-european-countries",
-      "text": "The EU has deepened energy ties with the US while seeking to reduce its exposure to geopolitical shocks. Yet US plans to limit diesel exports expose how quickly commercial dependence can become a strategic vulnerability.",
-      "issue": null,
-      "parties": []
     },
     {
       "topic": "Política",
@@ -1277,16 +1975,6 @@
       ]
     },
     {
-      "topic": "Altres",
-      "title": "Turkish forces to withdraw from strategic military base in northern Iraq",
-      "source": "EuroNews",
-      "date": "2026-09-25",
-      "url": "https://euronews.com/2026/09/25/turkish-army-to-withdraw-from-strategic-military-base-in-northern-iraq",
-      "text": "Turkey will gradually hand over the Bashiqa-Zilkan camp, where it has had troops since 2015, to the Iraqi government.",
-      "issue": null,
-      "parties": []
-    },
-    {
       "topic": "Habitatge",
       "title": "Les mil i una versions d'Ayuso amb el polèmic àtic de luxe",
       "source": "Ara",
@@ -1295,131 +1983,6 @@
       "text": "L'àtic de luxe de 6,3 milions d'euros adquirit per la Comunitat de Madrid s'ha convertit en una pedra a la sabata per al govern d'Isabel Díaz Ayuso . La polèmica, que amenaça amb agafar encara més envergadura arran del traumàtic desnonament de Maricarmen…",
       "issue": "rendes-lloguer",
       "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Ceuta's crisis 'has not been completely solved', says far-right MEP",
-      "source": "EuroNews",
-      "date": "2026-09-25",
-      "url": "https://euronews.com/video/2026/09/25/ceutas-crisis-has-not-been-completely-solved-says-far-right-mep",
-      "text": "Marion Maréchal, an MEP from the European Conservatives and Reformists, believes the European asylum rules \"must be reviewed\", as she considers them \"too broad\". She said the EU must create a \"list of safe countries\" from which asylum claims should not be…",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "La Vall d'en Bas lleva la variante de Olot y las Preses a los tribunales",
-      "source": "La Vanguardia · Barcelona",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/local/girona/20260925/11643852/vall-d-bas-lleva-variante-olot-preses-tribunales.html",
-      "text": "El Consistorio exige garantías para proteger los terrenos agrícolas, el acuífero y la calidad de vida de los vecinos antes de que den comienzo los trabajos",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Altres",
-      "title": "Europe's top leagues add to pressure on Infantino by calling for FIFA reform",
-      "source": "EuroNews",
-      "date": "2026-09-25",
-      "url": "https://euronews.com/2026/09/25/europes-top-leagues-add-to-pressure-on-infantino-by-calling-for-fifa-reform",
-      "text": "It is the latest rift between football leagues and Infantino, whose biggest projects have been seen as attacks on domestic football and were successfully resisted by a backlash from European officials.",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Denuncien agressions de la policia a dues persones més abans de l’Elx-Barça",
-      "source": "VilaWeb",
-      "date": "2026-09-25",
-      "url": "https://vilaweb.cat/noticies/dues-agressions-policia-mes-elx-barca",
-      "text": "Al·leguen danys com ara hematomes mentre intentaven de parlar amb la policia espanyola",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "3,7 milions: la indemnització que cobren els consellers d'empreses que són a la borsa",
-      "source": "Ara",
-      "date": "2026-09-25",
-      "url": "https://ara.cat/economia/directius/3-7-milions-indemnitzacio-cobren-consellers-d-empreses-son-borsa_1_5860092.html",
-      "text": "La indemnització mitjana que els consellers d'empreses que estan a la borsa perceben pel cessament de la relació contractual es va situar l'any passat en 3,7 milions d'euros. La quantitat, superada de llarg per algunes liquidacions multimilionàries…",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "No tots els regals saudites mereixen escarafalls",
-      "source": "Ara",
-      "date": "2026-09-25",
-      "url": "https://ara.cat/media/no-tots-regals-saudites-mereixen-escarafalls_129_5860598.html",
-      "text": "Si cada cop que un mitjà escriu la paraula esclata en un titular de forma hiperbòlica un euro aterrés a la meva guardiola, escriuria ja aquests articles des de la meva mansió a l’Aràbia Saudita, per dir un lloc completament a l’atzar. “El PSOE esclata pel…",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Nintendo anima la espera de Zelda: Ocarina of Time con descuentos en Switch 2 y sus títulos más jugados este otoño",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/comprar/tecnologia/20260915/11635218/nintendo-anima-espera-zelda-ocarina-of-time-descuentos-switch-2-juegos-mkt-alie.html",
-      "text": "La cuenta atrás para el lanzamiento de The Legend of Zelda: Ocarina of Time nos tiene a todos muy impacientes. Hasta entonces, AliExpress reúne descuentos en consolas, accesorios y videojuegos de Nintendo",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Altres",
-      "title": "El PP admite el “error” del vaciado del bote de gas pimienta en los baños del Congreso",
-      "source": "La Vanguardia · Política",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/politica/20260925/11643867/pp-admite-error-vaciado-bote-gas-pimienta-banos-congreso.html",
-      "text": "Ester Muñoz asegura que la diputada se lo dio a un asesor, que “lo limpió y efectivamente se expulsó algo de gas que quedaba y ocurrió lo que ocurrió. Mal. Es evidente”",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "El gobierno de Collboni intenta expulsar del velódromo a Bayern de los Caídos",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/local/barcelona/20260925/11643857/gobierno-collboni-intenta-expulsar-velodromo-equipo-f-c-bayern-caidos.html",
-      "text": "El concejal de Deportes envía una carta a los gestores de la instalación pública en la que reclama que se les eche de la liga por “exhibición de simbología fascista”",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Cultura",
-      "title": "Valtònyc torna a l’escenari amb Jazztònycs, una banda de jazz i funk: “Tenia ganes d’una proposta madura que em representés”",
-      "source": "VilaWeb",
-      "date": "2026-09-25",
-      "url": "https://vilaweb.cat/noticies/valtonyc-torna-escenaris-jazztonycs-banda-montseny-barreja-jazz-funk-rap",
-      "text": "Jazztònycs, un grup nascut a la falda del Montseny, barreja les lletres compromeses del rap de Valtònyc amb la sensibilitat i la riquesa musical del jazz i el funk",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "L’actor de 43 anys que mor al sotmetre’s a l’eutanàsia",
-      "source": "Ara",
-      "date": "2026-09-25",
-      "url": "https://ara.cat/gent/l-actor-43-anys-mor-despres-sotmetre-s-l-eutanasia_1_5860453.html",
-      "text": "L’actor i director teatral francès Arnaud Denis va morir dimarts, 22 de setembre, als 43 anys, després de sotmetre’s a l’eutanàsia a Bèlgica. Denis havia explicat a les xarxes socials que prenia aquesta decisió després de tres anys de dolor i un greu…",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
     },
     {
       "topic": "Ecologia",
@@ -1432,82 +1995,12 @@
       "parties": []
     },
     {
-      "topic": "Altres",
-      "title": "The business of peace: US investment push takes the TRIPP corridor from diplomacy to trade",
-      "source": "EuroNews",
-      "date": "2026-09-25",
-      "url": "https://euronews.com/2026/09/25/the-business-of-peace-us-investment-push-takes-the-tripp-corridor-from-diplomacy-to-trade",
-      "text": "Washington grants millions to the so-called Trans-Caspian Enterprise Fund to act as a catalyst for private investment in the South Caucasus and Central Asia.",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
       "topic": "Feminismes",
       "title": "Lamine Yamal i la tabarra de la Pilota d’Or",
       "source": "Ara",
       "date": "2026-09-25",
       "url": "https://ara.cat/esports/barca/lamine-yamal-tabarra-pilota-d-or_129_5859687.html",
       "text": "Aquest cop, la lliçó moral de “les campanyes les fan ells, no nosaltres” no es pot pronunciar. La tabarra que està donant el Barça perquè Lamine Yamal guanyi la Pilota d’Or no es pot maquillar, sobretot perquè el geni català és el primer d’encarregar-se que…",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Ecologia",
-      "title": "Controlat l’incendi que cremava a Collserola",
-      "source": "VilaWeb",
-      "date": "2026-09-25",
-      "url": "https://vilaweb.cat/noticies/bombers-treballen-incendi-collserola-esplugues",
-      "text": "El foc afecta la zona de la font d'Aubarces, a Esplugues de Llobregat",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Ambiente de playa a las puertas del primer fin de semana del otoño",
-      "source": "La Vanguardia · Barcelona",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/participacion/las-fotos-de-los-lectores/20260925/11643840/ambiente-playa-puertas-primer-semana-otono.html",
-      "text": "“Mientras ya se lleva a cabo la retirada de las boyas del verano, los bañistas aún disfrutan del Mediterráneo”",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "La acuarela natural de Calella de Palafrugell",
-      "source": "La Vanguardia · Barcelona",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/participacion/las-fotos-de-los-lectores/20260925/11643536/acuarela-natural-calella-palafrugell.html",
-      "text": "“El cielo anaranjado acompaña al sol, que ilumina con sus rayos el mar en calma dibujando así el horizonte”",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Altres",
-      "title": "These are the four artists competing for the 2026 Turner Prize as exhibition opens in Middlesbrough",
-      "source": "EuroNews",
-      "date": "2026-09-25",
-      "url": "https://euronews.com/video/2026/09/25/these-are-the-four-artists-competing-for-the-2026-turner-prize-as-exhibition-opens-in-midd",
-      "text": "Four artists have been shortlisted for this year’s Turner Prize, with their work now on display at the Middlesbrough Institute of Modern Art in northern England.",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Muere un trabajador sepultado por un muro de obra en un chalet de Alcobendas",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/local/madrid/20260925/11643834/muere-trabajador-sepultado-muro-obra-chalet-alcobendas.html",
-      "text": "Los bomberos se han empleado durante más de 40 minutos retirando escombro hasta liberar la vía aérea del trabajador, tras lo que un médico ha confirmado su fallecimiento",
       "issue": null,
       "parties": []
     },
@@ -1522,35 +2015,6 @@
       "parties": [
         {
           "party": "ERC",
-          "count": 1
-        },
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Altres",
-      "title": "Kazakhstan wants crypto miners to use power generated by excess oil field gas",
-      "source": "EuroNews",
-      "date": "2026-09-25",
-      "url": "https://euronews.com/2026/09/25/kazakhstan-wants-crypto-miners-to-use-power-generated-by-excess-oil-field-gas",
-      "text": "Kazakhstan is allowing crypto miners to use excess associated gas from oil fields to generate their own electricity, in a bid to reduce gas flaring and increase oil output while attracting miners back to the country.",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Educació",
-      "title": "La CUP insta Illa a “baixar al territori” i escoltar els actors de l’escola pública",
-      "source": "VilaWeb",
-      "date": "2026-09-25",
-      "url": "https://vilaweb.cat/noticies/la-cup-insta-illa-a-baixar-al-territori-i-escoltar-els-actors-de-lescola-publica",
-      "text": "Castillejo lamenta la poca concreció de la cimera i critica la presència d'Aliança pel seu \"model islamofòbic\"",
-      "issue": null,
-      "parties": [
-        {
-          "party": "CUP-DT",
           "count": 1
         },
         {
@@ -1582,7 +2046,7 @@
     {
       "topic": "Ecologia",
       "title": "Otro incendio en Collserola quema una hectárea de vegetación",
-      "source": "La Vanguardia",
+      "source": "La Vanguardia · Barcelona",
       "date": "2026-09-25",
       "url": "https://lavanguardia.com/local/baix-llobregat/20260925/11643838/diez-dotaciones-bombers-luchan-incendio-collserola.html",
       "text": "El fuego se ha generado en una zona de Esplugues de Llobregat, debajo de una torre eléctrica",
@@ -1592,148 +2056,10 @@
     {
       "topic": "LGTBIQ+",
       "title": "La Generalitat quiere aglutinar todo el transporte público bajo una marca compartida",
-      "source": "La Vanguardia",
+      "source": "La Vanguardia · Barcelona",
       "date": "2026-09-25",
       "url": "https://lavanguardia.com/local/barcelona/20260925/11643842/marca-compartida-generalitat-aglutinar-transporte-publico.html",
       "text": "Los operadores mantendrán su identidad propia, el nombre común será secundario y está pensado para identificar a todos los medios de transporte que dependen del departamento de Territori",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Germany's startup boom: What is working and what is holding them back",
-      "source": "EuroNews",
-      "date": "2026-09-25",
-      "url": "https://euronews.com/2026/09/25/germanys-startup-boom-what-is-working-and-what-is-holding-them-back",
-      "text": "The German startup ecosystem is gaining momentum, with 3053 startups founded in 2026, the highest number since 2019. With the right policies — both at the national and the EU level — the upturn could be amplified many times over.",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Feijóo exige a Sánchez “respuestas excepcionales” ante el desahucio de Maricarmen",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/politica/20260925/11643821/feijoo-exige-sanchez-respuestas-excepcionales-desahucio-maricarmen.html",
-      "text": "El líder del PP acusa al Gobierno de estar “inhabilitado para las políticas de vivienda” y plantea renovar el&nbsp;“contrato social roto” por un Ejecutivo “con menos principios que algunos clanes de crimen organizado”",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Altres",
-      "title": "Sin el Pixel 11 Pro también hay paraíso: 7 alternativas de Google que no tienen nada que envidiar a los móviles de Apple y Samsung",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/comprar/tecnologia/20260919/11638037/google-pixel-11-pro-7-alternativas-nada-envidiar-moviles-apple-samsung-mkt-alie.html",
-      "text": "El Google Pixel 11 Pro representa lo último de la marca, pero su coste lo sitúa fuera del alcance de muchos bolsillos. Por eso hemos reunido descuentos en generaciones anteriores de Pixel, una oportunidad para acceder a cámaras sobresalientes, software…",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Altres",
-      "title": "El Gobierno prevé aprobar el martes medidas contra desahucios, pero descarta las expropiaciones",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/politica/20260925/11643825/gobierno-confia-aprobar-martes-medidas-potentes-anti-desahucios-expropiaciones.html",
-      "text": "El ministro socialista Félix Bolaños defiende “conciliar” las posiciones discrepantes en materia de vivienda de Junts y Podemos, y demanda “altura de miras” a los grupos de la investidura",
-      "issue": null,
-      "parties": [
-        {
-          "party": "Junts",
-          "count": 1
-        },
-        {
-          "party": "Comuns",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Altres",
-      "title": "Descubierto en Turquía un fragmento del tratado de paz más antiguo conocido",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/cultura/20260925/11643810/descubierto-turquia-fragmento-tratado-paz-qadesh-egipto-ramses-mas-antiguo-conocido-firmado-alrededor-ano-1269-cristo.html",
-      "text": "El texto era parte del Tratado de Qadesh, firmado entre el faraón egipcio Ramsés II y el rey hitita&nbsp;Hattusili III",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Política",
-      "title": "Junts veu “buida de contingut” la reunió d’educació i ERC reclama un “contracte de país”",
-      "source": "VilaWeb",
-      "date": "2026-09-25",
-      "url": "https://vilaweb.cat/noticies/junts-erc-critiquen-reunio-crisi-educacio-govern",
-      "text": "Els dos partits coincideixen que la trobada amb Illa i Niubó no ha servit per a concretar mesures",
-      "issue": null,
-      "parties": [
-        {
-          "party": "Junts",
-          "count": 1
-        },
-        {
-          "party": "ERC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Altres",
-      "title": "Fin de semana de manifestaciones en Madrid: convocatorias por Maricarmen, la educación y la crisis de Ceuta",
-      "source": "La Vanguardia · Barcelona",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/local/madrid/20260925/11643595/semana-manifestaciones-madrid-convocatorias-maricarmen-educacion-crisis-ceuta.html",
-      "text": "&nbsp;Distintas entidades han convocado movilizaciones este fin de semana en la capital",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "La oposición a Collboni tumba las ordenanzas fiscales pero aprueba subir la tasa a cruceristas fugaces",
-      "source": "La Vanguardia · Barcelona",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/local/barcelona/20260925/11643732/oposicion-collboni-tumba-ordenanzas-fiscales-pero-aprueba-subir-tasa-cruceristas-fugaces.html",
-      "text": "El pleno vota a favor de dejar a los albergues juveniles al margen del aumento gradual de la tasa turística&nbsp;",
-      "issue": "lloguer-temporada",
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Vecinos de Sevilla se sientan bajo la Giralda contra la decisión municipal que permitió la gala de ‘Escaparate’",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/local/andalucia/20260925/11643794/vecinos-sevilla-sientan-giralda-decision-municipal-permitio-gala-escaparate.html",
-      "text": "Decenas de ciudadanos ocupan la Plaza Virgen de los Reyes una semana después de la cena, que contó con 36.058 euros de financiación pública y cuyo uso del espacio histórico ha generado críticas",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Macklemore announces new European tour for aid organisations in wake of Ed Sheeran controversy",
-      "source": "EuroNews",
-      "date": "2026-09-25",
-      "url": "https://euronews.com/2026/09/25/macklemore-announces-new-tour-to-benefit-humanitarian-aid-organisations-in-wake-of-ed-shee",
-      "text": "The US rapper, who was removed from Ed Sheeran’s US stadium tour after voicing support of Palestine, has convened a charity show that will visit Dublin, Paris and London next month. A North American run is to be announced.",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Over 2.8 million Audi and Volkswagen vehicles face recall worldwide",
-      "source": "EuroNews",
-      "date": "2026-09-25",
-      "url": "https://euronews.com/2026/09/25/over-28-million-audi-and-volkswagen-vehicles-face-recall-worldwide",
-      "text": "The German carmakers are to recall the vehicles because of a potentially faulty screw connection on the steering gear.",
       "issue": null,
       "parties": []
     },
@@ -1748,77 +2074,12 @@
       "parties": []
     },
     {
-      "topic": "Altres",
-      "title": "Arabia Saudí moviliza a Turquía y Pakistán para dar una respuesta a la ofensiva de los hutíes",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/internacional/20260925/11643801/arabia-saudi-moviliza-turquia-pakistan-dar-respuesta-ofensiva-huties.html",
-      "text": "El conflicto pone a prueba el Acuerdo de la Meca, la alianza defensiva de los tres países islámicos",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
       "topic": "Política",
       "title": "Barcelona demana expulsar d'una lligueta de futbol un equip per fer apologia del franquisme",
       "source": "Ara",
       "date": "2026-09-25",
       "url": "https://ara.cat/societat/barcelona/barcelona-demana-expulsar-d-lligueta-futbol-equip-apologia-franquisme_1_5860497.html",
       "text": "L'Ajuntament de Barcelona ha reclamat aquest divendres al gestor del Velòdrom d'Horta que impedeixi la participació en una de les lliguetes de futbol 7 que s'hi fan d'un equip que fa apologia del franquisme. El regidor d'Esports de la ciutat, David Escudé, li…",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "Italy moves to ban face coverings and limit foreign pupils in schools with new law",
-      "source": "EuroNews",
-      "date": "2026-09-25",
-      "url": "https://euronews.com/2026/09/25/italy-moves-to-ban-face-coverings-and-limit-foreign-pupils-in-schools-with-new-law",
-      "text": "A new law banning pupils from covering their faces in Italian schools and limiting the number of non-Italian nationals in some classes has been presented. Parents will also have to learn basic Italian.",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Altres",
-      "title": "El jutge deixa en llibertat el «cervell» financer d'una xarxa criminal vinculada al cas Plus Ultra",
-      "source": "Catalunya Diari",
-      "date": "2026-09-25",
-      "url": "https://naciodigital.cat/politica/el-jutge-deixa-en-llibertat-el-cervell-financer-duna-xarxa-criminal-vinculada-al-cas-plus-ultra.html",
-      "text": "Simon Lendeert Verhoeven va ser detingut a Alemanya i aquest divendres s’ha acollit al dret a no declarar davant l’Audiència Nacional",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Altres",
-      "title": "Denuncian una segunda agresión racista en Tavernes de la Valldigna tras la del joven de origen magrebí",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/local/valencia/20260925/11643787/denuncian-segunda-agresion-racista-tavernes-valldigna-joven-origen-magrebi.html",
-      "text": "El joven senegalés acabó con la mandíbula rota tras la agresión minutos antes&nbsp;que la del otro chico",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Altres",
-      "title": "Comparativa de electroestimuladores TENS/EMS 2026: prueba los mejores",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/comprar/mas-valorados/20260401/11498954/mejores-electroestimuladores-comparativas-mkt-eo.html",
-      "text": "Electroestimuladores TENS/EMS para aliviar el dolor y entrenar la musculatura en casa: cómo elegir el modelo que mejor encaja contigo según tu nivel y tus molestias",
       "issue": null,
       "parties": []
     },
@@ -1853,18 +2114,8 @@
       "parties": []
     },
     {
-      "topic": "Treball",
-      "title": "Niubó anuncia un grup de treball per a planificar la inversió del 6% del PIB en educació",
-      "source": "VilaWeb",
-      "date": "2026-09-25",
-      "url": "https://vilaweb.cat/noticies/niubo-anuncia-grup-treball-planificar-inversio-educacio",
-      "text": "També es farà un altre grup per a fer seguiment i aportacions al debat que encapçalarà el Consell d'Educació de Catalunya",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Antiracisme",
-      "title": "Urnes contra migrants: un idíl·lic poblet d'Anglaterra fa un referèndum per independitzar-se del Regne Unit",
+      "topic": "Barris",
+      "title": "Urnes contra immigrants: un poblet idíl·lic d'Anglaterra fa un referèndum per independitzar-se del Regne Unit",
       "source": "Ara",
       "date": "2026-09-25",
       "url": "https://ara.cat/internacional/europa/urnes-migrants-idil-lic-poblet-d-anglaterra-referendum-independitzar-regne-unit_1_5858399.html",
@@ -1912,29 +2163,6 @@
       "parties": []
     },
     {
-      "topic": "Política",
-      "title": "El ple de Lleida aprova de prohibir el burca i el nicab amb els vots del PSC, Junts i Vox",
-      "source": "VilaWeb",
-      "date": "2026-09-25",
-      "url": "https://vilaweb.cat/noticies/lleida-prohibeix-burca-nicab-psc-junts-vox",
-      "text": "La modificació de l'ordenança de civisme preveu sancions entre 400 euros i 3.000",
-      "issue": null,
-      "parties": [
-        {
-          "party": "PSC-Units",
-          "count": 1
-        },
-        {
-          "party": "Junts",
-          "count": 1
-        },
-        {
-          "party": "Vox",
-          "count": 1
-        }
-      ]
-    },
-    {
       "topic": "Aigua",
       "title": "230 anys sense vida dins de l’Opus Dei",
       "source": "La Directa",
@@ -1957,7 +2185,7 @@
     {
       "topic": "Política",
       "title": "Lleida aprueba la prohibición del burka en espacios públicos",
-      "source": "La Vanguardia",
+      "source": "La Vanguardia · Barcelona",
       "date": "2026-09-25",
       "url": "https://lavanguardia.com/local/lleida/20260925/11643629/lleida-aprueba-prohibicion-burka-espacios-publicos.html",
       "text": "La ordenanza ha contado con los votos de&nbsp;PSC-Units, Junts y Vox y el voto en contra de PP, ERC y el Comù",
@@ -2017,56 +2245,11 @@
     },
     {
       "topic": "Educació",
-      "title": "El jutjat cita a declarar Juanma Badenas per haver entrat il·legalment a la seu del Sindicat d’Estudiants",
-      "source": "VilaWeb",
-      "date": "2026-09-25",
-      "url": "https://vilaweb.cat/noticies/jutjat-cita-declarar-badenas-entrar-seu-sindicat-estudiants",
-      "text": "L'acusen no solament d'entrar-hi, sinó també d'enregistrar vídeos dins els despatxos i revisar documentació confidencial",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Habitatge",
-      "title": "Nou decret per l’habitatge, legislar a cop d’emocions",
-      "source": "Ara",
-      "date": "2026-09-25",
-      "url": "https://ara.cat/analisi/nou-decret-l-habitatge-legislar-cop-d-emocions_1_5860345.html",
-      "text": "Causa una profunda vergonya que hagi calgut el desnonament d’aquesta senyora gran de Madrid perquè ara sí, correm-hi tots. Primer, perquè no és seriós i, després, pels que diuen que ells ja fa temps que avisaven, perquè un decret antidesnonaments pararà el…",
-      "issue": "rendes-lloguer",
-      "parties": []
-    },
-    {
-      "topic": "Aigua",
-      "title": "Caces de Finlàndia i Suècia intercepten avions militars russos en una operació inèdita",
-      "source": "VilaWeb",
-      "date": "2026-09-25",
-      "url": "https://vilaweb.cat/noticies/caces-finlandia-suecia-intercepten-avions-militars-russos",
-      "text": "Van identificar un avió de transport i uns quants aparells de combat russos sobre aigües internacionals del golf de Finlàndia",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Educació",
       "title": "Els alumnes de Harvard interpel·len Sánchez pel Marroc i els casos de corrupció de la seva família",
       "source": "Catalunya Diari",
       "date": "2026-09-25",
       "url": "https://naciodigital.cat/politica/les-preguntes-dels-alumnes-de-harvard-a-sanchez-sobre-el-marroc-i-els-casos-de-corrupcio.html",
       "text": "El president espanyol ha visitat els estudiants per fer una intervenció sobre intel·ligència artificial i l'amenaça dels algorismes fets per a \"esclavitzar-nos\", però també ha respost a algunes preguntes sobre els casos de la seva dona i el seu germà",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Cultura",
-      "title": "Els Castellers de Barcelona exigeixen la retirada del vídeo d’Aliança Catalana que els utilitza per escampar missatges d’odi",
-      "source": "VilaWeb",
-      "date": "2026-09-25",
-      "url": "https://vilaweb.cat/noticies/castellers-barcelona-retirada-video-alianca-catalana-odi",
-      "text": "El partit d’extrema dreta utilitza imatges dels castellers per encomanar-se a la Mercè i “salvar” la ciutat de “les plagues” que la castiguen",
       "issue": null,
       "parties": []
     },
@@ -2126,21 +2309,6 @@
       ]
     },
     {
-      "topic": "Política",
-      "title": "Nogueras diu que el PSOE “veu amb bons ulls” les propostes de Junts per al decret sobre habitatge",
-      "source": "VilaWeb",
-      "date": "2026-09-25",
-      "url": "https://vilaweb.cat/noticies/nogueras-psoe-bons-ulls-propostes-junts-decret-habitatge",
-      "text": "La portaveu del grup al congrés espanyol assegura que no es pot imaginar ningú votant en contra de les seves mesures",
-      "issue": null,
-      "parties": [
-        {
-          "party": "Junts",
-          "count": 1
-        }
-      ]
-    },
-    {
       "topic": "Cultura",
       "title": "L’economia espanyola creix un 2,6% interanual el segon trimestre, una dècima menys del previst",
       "source": "Catalunya Diari",
@@ -2166,32 +2334,12 @@
       ]
     },
     {
-      "topic": "Feminismes",
-      "title": "Detingut un jove de 20 anys per matar a ganivetades una dona a Sevilla",
-      "source": "Ara",
-      "date": "2026-09-25",
-      "url": "https://ara.cat/societat/successos/detingut-jove-20-anys-matar-ganivetades-dona-sevilla_25_5860269.html",
-      "text": "Un jove de 20 anys ha estat detingut després de presumptament matar a ganivetades una dona prostituta de 41 anys amb la qual havia gestionat una cita en una habitació d'hotel de la localitat sevillana de Bormujos.",
-      "issue": null,
-      "parties": []
-    },
-    {
       "topic": "Habitatge",
       "title": "Calonge cede dos solares a la Agència Catalana de l'Habitatge para la promoción de pisos protegidos",
       "source": "La Vanguardia · Barcelona",
       "date": "2026-09-25",
       "url": "https://lavanguardia.com/local/girona/20260925/11643566/calonge-cede-dos-solares-agencia-catalana-l-habitatge-promocion-pisos-protegidos.html",
       "text": "Se construirán 66 pisos en la calle de la Gavina y en la calle de la Gavina y en la calle Gavina",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Antiracisme",
-      "title": "El Marroc, sobre el retorn dels migrants de Ceuta: \"Si no han tornat, s'ha de preguntar a Espanya\"",
-      "source": "Ara",
-      "date": "2026-09-25",
-      "url": "https://ara.cat/politica/marroc-retorn-dels-migrants-ceuta-no-han-tornar-s-preguntar-espanya_25_5860252.html",
-      "text": "El ministre d'Exteriors del Marroc, Nasser Bourita, va reafirmar aquest dijous davant del ministre espanyol José Manuel Albares la posició \"clara\" del seu país a favor del retorn dels migrants que van entrar al juliol a Ceuta. I ha responsabilitzat Espanya de…",
       "issue": null,
       "parties": []
     },
@@ -2343,7 +2491,7 @@
     {
       "topic": "Cultura",
       "title": "Exportando el almuercito",
-      "source": "La Vanguardia",
+      "source": "La Vanguardia · Barcelona",
       "date": "2026-09-25",
       "url": "https://lavanguardia.com/local/valencia/20260925/11643489/exportando-almuercito.html",
       "text": "Sí, ya sé que empezamos mal, con un título de lo más ridículo, pero está pasando, valencianos y catalanes han movido ficha y plantado una especie de pica en Flandes. Seguir leyendo...",
@@ -2436,16 +2584,6 @@
       ]
     },
     {
-      "topic": "Aigua",
-      "title": "La postal completa de l'estany de Puigcerdà",
-      "source": "Ara",
-      "date": "2026-09-25",
-      "url": "https://ara.cat/girona/postal-completa-estany-puigcerda_130_5858249.html",
-      "text": "La més celebrada imatge de postal de Puigcerdà està composta per l’estany, els arbres del Parc Schierbeck, les senyorials cases d’estiueig i les muntanyes de fons coronades per la neu. I navegant per l’aigua, esclar, una barca de rems. Però a aquesta visió…",
-      "issue": null,
-      "parties": []
-    },
-    {
       "topic": "Barris",
       "title": "Buidar la casa perquè revisqui",
       "source": "Ara",
@@ -2491,61 +2629,6 @@
       "parties": [
         {
           "party": "Junts",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Habitatge",
-      "title": "Què amaga el desnonament de la Maricarmen?",
-      "source": "Catalunya Diari",
-      "date": "2026-09-25",
-      "url": "https://naciodigital.cat/setmanada/que-amaga-el-desnonament-de-la-maricarmen.html",
-      "text": "La imatge de la setmana és intolerable i explica fins a quin punt el sistema és incapaç d'esmenar les vulnerabilitats; també serveix per explicar el fracàs del PSOE i de Sumar per embridar la crisi de l'habitatge",
-      "issue": "rendes-lloguer",
-      "parties": []
-    },
-    {
-      "topic": "Cultura",
-      "title": "Tarragona se prepara para el mejor Concurs de Castells de la historia",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/qf/20260925/11642947/tarragona-prepara-mejor-concurs-castells-historia.html",
-      "text": "La cita llega a la 30.ª edición con el ‘món casteller’ en estado de gracia. Por la vitalidad de las colles, el interés de los aficionados, con las plazas llenas, y por el impacto global de un fenómeno cultural único",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Cultura",
-      "title": "Así es el museo de Valls que permite ponerse en la piel del casteller",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/qf/planes/20260925/11642899/asi-museo-valls-permite-ponerse-piel-casteller.html",
-      "text": "El Museu Casteller de Catalunya concentra la esencia castellera en un viaje entre la tradición y el espectáculo",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Cultura",
-      "title": "5 buenos restaurantes en Tarragona para celebrar el Concurs de Castells",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/qf/planes/20260925/11642916/5-buenos-restaurantes-tarragona-celebrar-concurs-castells.html",
-      "text": "Un fin de semana de batalla castellera anima a descubrir la gastronomía de la ciudad, mezcla de tradición marinera y fusión de culturas en el Mediterráneo",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Cultura",
-      "title": "Los mejores planes para hacer en Barcelona este fin de semana",
-      "source": "La Vanguardia",
-      "date": "2026-09-25",
-      "url": "https://lavanguardia.com/qf/planes/20260925/11642866/mejores-planes-barcelona-semana.html",
-      "text": "Una selección de actividades para disfrutar al máximo de la cultura, el arte, la naturaleza y la gastronomía con la pareja, la familia, solo o con amigos",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
           "count": 1
         }
       ]
@@ -2651,16 +2734,6 @@
       ]
     },
     {
-      "topic": "Drets humans",
-      "title": "«Es va apartar de la finalitat de la llei»: el TC esmenarà el criteri del Suprem amb l’amnistia",
-      "source": "Catalunya Diari",
-      "date": "2026-09-24",
-      "url": "https://naciodigital.cat/politica/el-constitucional-esmena-el-suprem-en-la-sentencia-que-avalara-finalment-lamnistia.html",
-      "text": "El text apunta que la interpretació sobre el delicte de malversació ha incorregut en una “fallida lògica”",
-      "issue": null,
-      "parties": []
-    },
-    {
       "topic": "Mobilitat",
       "title": "Badalona formará 30 conductores de autobús para trabajar en la empresa TUSGSAL",
       "source": "La Vanguardia · Barcelona",
@@ -2691,26 +2764,6 @@
       "parties": []
     },
     {
-      "topic": "Política",
-      "title": "La Generalitat unificarà les marques d'FGC i Rodalies",
-      "source": "Catalunya Diari",
-      "date": "2026-09-24",
-      "url": "https://naciodigital.cat/societat/la-generalitat-unificara-les-marques-dfgc-i-rodalies.html",
-      "text": "La iniciativa forma part d'un projecte per dotar d'una identitat comuna a tots els transports públics de Catalunya",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Política",
-      "title": "La tercera vida de Manolo González a l’Espanyol",
-      "source": "Ara",
-      "date": "2026-09-24",
-      "url": "https://ara.cat/esports/rcd-espanyol/tercera-vida-manolo-gonzalez-l-espanyol_130_5858627.html",
-      "text": "La dolorosa derrota contra l’Elx va posar en dubte la continuïtat de Manolo González al capdavant de l’Espanyol. El mateix tècnic gallec va reconèixer en roda de premsa que havia estat un partit “espantós”, el “pitjor” des que és al club blanc-i-blau. Amb un…",
-      "issue": null,
-      "parties": []
-    },
-    {
       "topic": "Energia",
       "title": "El cielo otoñal de Sabadell",
       "source": "La Vanguardia · Barcelona",
@@ -2719,33 +2772,6 @@
       "text": "“Los altocumulus undulatus parecen cadenas tejidas debido a la luz del sol al atardecer y el tono naranja intenso ocurre cuando los rayos solares inciden horizontalmente en la atmósfera durante el crepúsculo”",
       "issue": null,
       "parties": []
-    },
-    {
-      "topic": "Política",
-      "title": "Un regidor de Junts tria l'esvàstica per davant de l'espardenya",
-      "source": "Ara",
-      "date": "2026-09-24",
-      "url": "https://ara.cat/politica/regidor-junts-tria-l-esvastica-davant-l-espardenya_1_5859721.html",
-      "text": "\"L'espardenya o l'esvàstica. Tu tries\". La pregunta se l'ha formulat en un article aquesta mateixa setmana l'expresident de la Generalitat i líder de Junts, Carles Puigdemont, després que a l'hemicicle del Parlament Junts, ERC, CUP i Comuns mostressin el…",
-      "issue": null,
-      "parties": [
-        {
-          "party": "Junts",
-          "count": 1
-        },
-        {
-          "party": "ERC",
-          "count": 1
-        },
-        {
-          "party": "CUP-DT",
-          "count": 1
-        },
-        {
-          "party": "Comuns",
-          "count": 1
-        }
-      ]
     },
     {
       "topic": "Feminismes",
@@ -2773,31 +2799,6 @@
       "date": "2026-09-24",
       "url": "https://ara.cat/economia/aerolinies/easyjet-aterra-l-aeroport-girona-dues-noves-rutes-regne-unit_1_5859646.html",
       "text": "L’aeroport de Girona-Costa Brava continua creixent. De cara al 2027 suma a la seva oferta de vols una nova companyia de primer ordre que operarà a les pistes gironines. És la britànica EasyJet , una de les aerolínies de baix cost més importants del món, amb…",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "LGTBIQ+",
-      "title": "‘El Robben del Barça’ que està impactant en el Girona",
-      "source": "Ara",
-      "date": "2026-09-24",
-      "url": "https://ara.cat/esports/girona-fc/robben-barca-impactant-girona_130_5859423.html",
-      "text": "Carles Pérez va ser el darrer reforç del Girona aquest estiu. Incorporat un parell de dies més tard que s’acabés el termini, després que es desvinculés del Celta pocs minuts abans de tancar la finestra del mercat, gairebé de matinada, el seu és un fitxatge de…",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Antiracisme",
-      "title": "Un grup de joves apallissen un jove àrab en unes festes al País Valencià",
-      "source": "Ara",
-      "date": "2026-09-24",
-      "url": "https://ara.cat/societat/immigracio/grup-joves-apallisa-jove-arab-festes-valencia_1_5859567.html",
-      "text": "La Guàrdia Civil investiga una possible agressió racista a un home per part d'un nombrós grup de joves a la localitat valenciana de Tavernes de la Valldigna. Els fets van tenir lloc el cap de setmana passat, durant les festes de la localitat, segons han…",
       "issue": null,
       "parties": []
     },
@@ -2837,45 +2838,6 @@
       ]
     },
     {
-      "topic": "Energia",
-      "title": "El parking del Alcampo de Sant Boi empieza a tocar techo: ya toma forma su gigantesca pérgola solar",
-      "source": "La Vanguardia · Barcelona",
-      "date": "2026-09-24",
-      "url": "https://lavanguardia.com/elllobregat/sociedad/20260924/11642919/parking-alcampo-sant-boi-empieza-tocar-techo-toma-forma-gigantesca-pergola-solar.html",
-      "text": "La primera fase de la gran pérgola fotovoltaica de Sant Boi ya está terminada y otra está a punto de completarse |&nbsp;",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Cooperativisme",
-      "title": "Omella pide que Catalunya siga siendo solidaria y respetuosa con los valores humanos en su última misa de la Mercè",
-      "source": "La Vanguardia · Barcelona",
-      "date": "2026-09-24",
-      "url": "https://lavanguardia.com/local/barcelona/20260924/11642911/omella-pide-catalunya-siga-siendo-solidaria-respetuosa-valores-humanos-ultima-misa-merce.html",
-      "text": "El arzobispo de Barcelona y cardenal ha presidido por última vez la misa solemne en la basílica, puesto que su relevo es inminente y está ya en el tiempo de descuento al tener más de 80 años",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Política",
-      "title": "El PSC reclama acelerar el comedor social de Badalona y el gobierno culpa del retraso al Incasòl",
-      "source": "La Vanguardia · Barcelona",
-      "date": "2026-09-24",
-      "url": "https://lavanguardia.com/local/barcelones-nord/20260924/11642894/psc-reclama-acelerar-comedor-social-badalona-gobierno-culpa-retraso-incasol.html",
-      "text": "Los socialistas alertan de que el servicio no estará operativo este otoño y el ejecutivo de Albiol asegura que sólo falta que el organismo de la Generalitat fije el precio del local",
-      "issue": null,
-      "parties": [
-        {
-          "party": "PSC-Units",
-          "count": 1
-        },
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
       "topic": "Política",
       "title": "El Govern acusa a Ayuso de “fake news” por decir que en Catalunya hay cinco veces más desahucios que en Madrid",
       "source": "La Vanguardia · Política",
@@ -2884,25 +2846,6 @@
       "text": "La consellera Paneque cree que la andanada de la presidenta madrileña es para “ocultar vergüenzas propias”",
       "issue": null,
       "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Política",
-      "title": "El govern espanyol accelera els contactes amb Junts per a un nou decret d'habitatge després del cas de la Maricarmen",
-      "source": "Ara",
-      "date": "2026-09-24",
-      "url": "https://ara.cat/politica/l-onu-assenyala-falta-proporcionalitat-llei-espanyola-davant-desnonaments_1_5859416.html",
-      "text": "El desnonament de la Maricarmen, una veïna madrilenya de 87 anys que va amb cadira de rodes, ha sacsejat tot l'Estat. El cas d'aquesta anciana ha esdevingut simbòlic per la seva vulnerabilitat, i les protestes, que aquest dimecres es van concentrar davant del…",
-      "issue": "rendes-lloguer",
-      "parties": [
-        {
-          "party": "Junts",
-          "count": 1
-        },
         {
           "party": "AC",
           "count": 1
@@ -2951,6 +2894,16 @@
       "date": "2026-09-24",
       "url": "https://ara.cat/ciencia-medi-ambient/neurociencia/llegir-plaer-creixer-substancia-grisa-cervell_1_5856991.html",
       "text": "Vivim en un context global marcat per la fragilitat emocional: més de mil milions de persones conviuen amb un diagnòstic de salut mental, segons l'Organització Mundial de la Salut. La situació és especialment crítica a les aules: un de cada set adolescents…",
+      "issue": null,
+      "parties": []
+    },
+    {
+      "topic": "LGTBIQ+",
+      "title": "\"No té sentit fer esport per fer-se malbé, l'esport ha de ser alegria\"",
+      "source": "Ara",
+      "date": "2026-09-24",
+      "url": "https://ara.cat/esports/jocs-olimpics/no-sentit-esport-malbe-l-esport-alegria_128_5858077.html",
+      "text": "Fa poques setmanes, Miquel Mañé (Calafell, 2003) va proclamar-se per tercer cop campió mundial de gimnàstica aeròbica. Una disciplina en creixement de la qual Mañé s'ha convertit en la cara més coneguda gràcies als seus bons resultats i la màgia que transmet…",
       "issue": null,
       "parties": []
     },
@@ -3016,16 +2969,6 @@
       "date": "2026-09-23",
       "url": "https://motor.ara.cat/novetats/nissan-pixo-cotxe-divertit-nom-inoblidable_1_5858754.html",
       "text": "Probablement al Japó no han tingut gaire en compte què significa en català el nom del seu nou vehicle elèctric assequible. De fet, no seria el primer cop que una marca automobilística bateja un dels seus cotxes amb un nom comercial graciós i un punt…",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Cultura",
-      "title": "La comèdia romàntica escrita per una neurocientífica que va canviar la ciència pels llibres (i que pots veure a Prime)",
-      "source": "Ara",
-      "date": "2026-09-23",
-      "url": "https://ara.cat/media/series/comedia-romantica-escrita-neurocientifica-canviar-ciencia-pels-llibres-pots-veure-prime_1_5858707.html",
-      "text": "Des de fa un parell d'anys, Prime Video ha decidit centrar bona part de la seva oferta en contingut juvenil, i l'estratègia li està sortint molt bé. Dins d'aquest pla, un dels plats forts d'aquest 2026 era l'estrena del telefilm La hipòtesi de l'amor , que ja…",
       "issue": null,
       "parties": []
     },
@@ -3127,16 +3070,6 @@
           "count": 1
         }
       ]
-    },
-    {
-      "topic": "Política",
-      "title": "CCOO Agents Rurals denuncia que el Govern manté bloquejats centenars d’expedients per mort d’aus protegides electrocutades",
-      "source": "CCOO",
-      "date": "2026-09-23",
-      "url": "https://ccoo.cat/noticies/serveis-a-la-ciutadania/ccoo-agents-rurals-denuncia-que-el-govern-mante-bloquejats-centenars-dexpedients-per-mort-daus-protegides-electrocutades",
-      "text": "CCOO Agents Rurals denuncia que la Generalitat incompleix les demandes de laFiscalia General de l’Estat i permet que les empreses ... ... Font",
-      "issue": null,
-      "parties": []
     },
     {
       "topic": "Antiracisme",
@@ -3356,26 +3289,6 @@
     },
     {
       "topic": "Cultura",
-      "title": "Brasa, producte català i un nou espai: El Corte Inglés revoluciona el Club del Gourmet",
-      "source": "Ara",
-      "date": "2026-09-22",
-      "url": "https://mengem.ara.cat/restaurants/brasa-producte-catala-nou-espai-corte-ingles-revoluciona-club-gourmet_1_5857354.html",
-      "text": "Mentre que l’oferta gastronòmica de Barcelona vira cap a les tendències de mercat, amb tota mena de propostes de restauració estrangera aflorant pels racons de la ciutat, hi ha qui manté el pols a les modes amb una aposta ferma per la cuina local, de…",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Feminismes",
-      "title": "CCOO dona suport a la declaració del CSIR Pirimed per mantenir el transport ferroviari de mercaderies per Cervera i Portbou",
-      "source": "CCOO",
-      "date": "2026-09-22",
-      "url": "https://ccoo.cat/noticies/ccoo-dona-suport-a-la-declaracio-del-csir-pirimed-per-mantenir-el-transport-ferroviari-de-mercaderies-per-cervera-i-portbou",
-      "text": "CCOO de Catalunya s’adhereix al posicionament del Consell Sindical Interregional (CSIR) Pirimed en defensa dels llocs de treball i de ... ... Font",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Cultura",
       "title": "Debussy, Ravel, Poulenc y Richter: iniciativa bienvenida (★★★★✩)",
       "source": "La Vanguardia · Cultura",
       "date": "2026-09-22",
@@ -3529,16 +3442,6 @@
       ]
     },
     {
-      "topic": "Habitatge",
-      "title": "CCOO reclama al Parlament polítiques d’habitatge públiques urgents",
-      "source": "CCOO",
-      "date": "2026-09-21",
-      "url": "https://ccoo.cat/noticies/ccoo-reclama-al-parlament-politiques-dhabitatge-publiques-urgents",
-      "text": "Els sindicat planteja un canvi de model per frenar l’emergència, combinant propostes d’inversió pública amb eines de negociació i control ... ... Font",
-      "issue": null,
-      "parties": []
-    },
-    {
       "topic": "Treball",
       "title": "La UGT Serveis Públics de Catalunya convoca la primera vaga dels serveis socials al territori",
       "source": "UGT",
@@ -3580,36 +3483,6 @@
           "count": 1
         }
       ]
-    },
-    {
-      "topic": "Treball",
-      "title": "CCOO lliura els seus comptes a la Sindicatura de Comptes en un exercici de transparència voluntària",
-      "source": "CCOO",
-      "date": "2026-09-21",
-      "url": "https://ccoo.cat/noticies/ccoo-lliura-els-seus-comptes-a-la-sindicatura-de-comptes-en-un-exercici-de-transparencia-voluntaria",
-      "text": "La secretària general i el secretari de finances de CCOO de Catalunya fan entrega del balanç anual a l’òrgan fiscalitzador ... ... Font",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Mobilitat",
-      "title": "El Gobierno busca nuevos espacios para reubicar a más de 3.000 inmigrantes que siguen en la calle en Ceuta",
-      "source": "La Vanguardia · Política",
-      "date": "2026-09-21",
-      "url": "https://lavanguardia.com/politica/20260921/11640245/gobierno-busca-nuevos-espacios-reubicar-mas-3-000-inmigrantes-siguen-calle-ceuta.html",
-      "text": "El ministro de Política Territorial, Ángel Víctor Torres, confía en que “en pocas semanas” puedan ser desalojadas las personas que aún permanecen en las playas del Trampolín y Benítez de la ciudad autónoma",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Cultura",
-      "title": "El Asian Film Festival Barcelona pondrá el foco en la India en su 14.ª edición",
-      "source": "La Vanguardia · Cultura",
-      "date": "2026-09-21",
-      "url": "https://lavanguardia.com/cultura/20260921/11640199/asian-film-festival-barcelona-pondra-foco-india-14-edicion.html",
-      "text": "El certamen organizado por Casa Asia se celebrará del 22 de octubre al 1 de noviembre&nbsp;",
-      "issue": null,
-      "parties": []
     },
     {
       "topic": "Mobilitat",
@@ -3682,16 +3555,6 @@
       ]
     },
     {
-      "topic": "Energia",
-      "title": "Per què costa tant a les empreses tecnològiques controlar la IA?",
-      "source": "Ara",
-      "date": "2026-09-21",
-      "url": "https://empreses.ara.cat/innovacio/costa-tant-empreses-tecnologiques-controlar-ia_130_5851498.html",
-      "text": "Més d'una dotzena d'investigadors destacats en intel·ligència artificial (IA) van advertir la setmana passada que la tecnologia que estan construint les empreses del sector s'està convertint en un risc per a la humanitat. El problema, van assegurar aquests…",
-      "issue": null,
-      "parties": []
-    },
-    {
       "topic": "Cultura",
       "title": "Helena Guardans, presidenta del Liceu a partir del viernes // El Barça cederá a terceros el Palau para no subir su deuda",
       "source": "La Vanguardia · Economia",
@@ -3702,19 +3565,9 @@
       "parties": []
     },
     {
-      "topic": "LGTBIQ+",
-      "title": "Catalunya prepara sus museos del futuro",
-      "source": "La Vanguardia · Cultura",
-      "date": "2026-09-21",
-      "url": "https://lavanguardia.com/local/catalunya/catalunya-avanca/20260921/11636525/catalunya-prepara-museos-futuro.html",
-      "text": "El MNAC vive una ampliación histórica, el Macba transforma la plaza de los Àngels, aterriza el Thyssen y el Arqueològic de Tarragona abrirá transformado",
-      "issue": null,
-      "parties": []
-    },
-    {
       "topic": "Habitatge",
       "title": "V Congreso Nacional de la Vivienda: crear hogares para responder a un reto social",
-      "source": "La Vanguardia",
+      "source": "La Vanguardia · Economia",
       "date": "2026-09-21",
       "url": "https://lavanguardia.com/economia/20260921/11636072/v-congreso-nacional-vivienda-crear-hogares-responder-reto-social-brl.html",
       "text": "&nbsp;Barcelona acoge los días 7 y 8 de octubre el V Congreso Nacional de la Vivienda, organizado por APCEspaña y APCE Cataluña. El encuentro reunirá a expertos y profesionales para debatir cómo impulsar hogares más asequibles, sostenibles y adaptados a la…",
@@ -3802,21 +3655,6 @@
       ]
     },
     {
-      "topic": "Mobilitat",
-      "title": "CCOO Catalunya reclama que els plans de mobilitat sostenible al treball siguin una eina per millorar la mobilitat laboral i reduir els accidents in itinere",
-      "source": "CCOO",
-      "date": "2026-09-18",
-      "url": "https://ccoo.cat/noticies/sostenibilitat/ccoo-catalunya-reclama-que-els-plans-de-mobilitat-sostenible-al-treball-siguin-una-eina-per-millorar-la-mobilitat-laboral-i-reduir-els-accidents-in-itinere",
-      "text": "El sindicat posa a disposició de les seves delegades i delegats una guia específica per Catalunya des del mes de ... ... Font",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
       "topic": "Treball",
       "title": "La UGT de Catalunya organitza una jornada-taller de primers auxilis psicològics i gestió emocional en l’àmbit laboral",
       "source": "UGT",
@@ -3860,6 +3698,16 @@
           "count": 1
         }
       ]
+    },
+    {
+      "topic": "LGTBIQ+",
+      "title": "Smiljan Radić: “Crearemos un vínculo inmediato con la ciudad de Barcelona”",
+      "source": "La Vanguardia",
+      "date": "2026-09-18",
+      "url": "https://lavanguardia.com/vida/20260918/11599364/smiljan-radic-crearemos-vinculo-inmediato-ciudad-barcelona-brl.html",
+      "text": "&nbsp;El arquitecto chileno, Premio Pritzker 2026, analiza el proyecto que ha diseñado para el nuevo palacio ferial Multifuncional, un edificio llamado a transformar el recinto de Montjuïc de Fira de Barcelona, abriéndolo todavía más a la ciudad y…",
+      "issue": null,
+      "parties": []
     },
     {
       "topic": "Educació",
@@ -3962,21 +3810,6 @@
       ]
     },
     {
-      "topic": "Treball",
-      "title": "CCOO reclama al Parlament que s’acceleri la posada en servei de CATAV, «un tren per a la classe treballadora»",
-      "source": "CCOO",
-      "date": "2026-09-16",
-      "url": "https://ccoo.cat/noticies/ccoo-reclama-al-parlament-que-sacceleri-la-posada-en-servei-de-catav-un-tren-per-a-la-classe-treballadora",
-      "text": "El sindicat ha presentat avui el projecte de Xarxa Catalana d’Alta Velocitat i ha reivindicat que el projecte, ja aprovat ... ... Font",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
       "topic": "Salut",
       "title": "La UE demana prohibir l’accés dels menors de 13 anys a les xarxes socials i restringir l’activitat fins als 15",
       "source": "Social.cat",
@@ -4012,16 +3845,6 @@
       "parties": []
     },
     {
-      "topic": "Treball",
-      "title": "No ha vingut ni l’un ni l’altre o No han vingut ni l’un ni l’altre?",
-      "source": "CCOO",
-      "date": "2026-09-16",
-      "url": "https://ccoo.cat/noticies/servei-linguistic/no-ha-vingut-ni-lun-ni-laltre-o-no-han-vingut-ni-lun-ni-laltre",
-      "text": "No ha vingut ni l’un ni l’altre o No han vingut ni l’un ni l’altre? Les dues opcions són correctes ... ... Font",
-      "issue": null,
-      "parties": []
-    },
-    {
       "topic": "Cooperativisme",
       "title": "L’ACI escull la seva nova Junta Directiva Global per al mandat 2026-2030",
       "source": "CoopCat",
@@ -4037,27 +3860,12 @@
       ]
     },
     {
-      "topic": "Habitatge",
-      "title": "CCOO segella un conveni amb l’Ajuntament de Barcelona per impulsar 1.500 habitatges protegits",
-      "source": "CCOO",
+      "topic": "Educació",
+      "title": "Barcelona, una ciudad que educa más allá del aula",
+      "source": "La Vanguardia",
       "date": "2026-09-15",
-      "url": "https://ccoo.cat/noticies/ccoo-segella-un-conveni-amb-lajuntament-de-barcelona-per-impulsar-1-500-habitatges-protegits",
-      "text": "Ja fa anys que CCOO de Catalunya denunciem que l’accés a l’habitatge s’ha convertit en un problema de classe, és ... ... Font",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Treball",
-      "title": "CCOO reclama mesures més contundents per a contenir l’impacte de la inflació en les persones treballadores",
-      "source": "CCOO",
-      "date": "2026-09-15",
-      "url": "https://ccoo.cat/noticies/ccoo-reclama-mesures-mes-contundents-per-a-contenir-limpacte-de-la-inflacio-en-les-persones-treballadores",
-      "text": "Les dades de l’IPC corresponents al mes d’agost suposen un important repunt en la inflació i posen en evidència la ... ... Font",
+      "url": "https://lavanguardia.com/local/barcelona/20260915/11635596/barcelona-ciudad-educa-mas-aula.html",
+      "text": "&nbsp; &nbsp; Seguir leyendo...",
       "issue": null,
       "parties": []
     },
@@ -4127,16 +3935,6 @@
       "parties": []
     },
     {
-      "topic": "Drets humans",
-      "title": "Concentració contra la repressió sindical a IQAP Masterbatch Group",
-      "source": "CCOO",
-      "date": "2026-09-10",
-      "url": "https://ccoo.cat/noticies/concentracio-contra-la-repressio-sindical-a-iqap-masterbatch-group",
-      "text": "CCOO d’Indústria ha convocat una concentració el proper dilluns 14 de setembre per denunciar la repressió sindical de la direcció ... ... Font",
-      "issue": null,
-      "parties": []
-    },
-    {
       "topic": "Feminismes",
       "title": "Convocatòria europea: Protecció integrada dels infants",
       "source": "CoopCat",
@@ -4153,41 +3951,6 @@
       "date": "2026-09-09",
       "url": "https://cooperativescatalunya.coop/15035",
       "text": "Aquesta convocatòria dona suport a projectes centrats en la protecció i suport a víctimes i supervivents de violència de gènere. Informació general Programa Citizens, Equality, Rights and Values Programme (CERV) Convocatòria Protecting and supporting victims…",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Política",
-      "title": "Suspensió d’activitat a les seus de CCOO de les cinc comarques afectades per l’avís de pluges",
-      "source": "CCOO",
-      "date": "2026-09-08",
-      "url": "https://ccoo.cat/noticies/suspensio-dactivitat-a-les-seus-de-ccoo-de-les-cinc-comarques-afectades-per-lavis-de-pluges",
-      "text": "Atenent a les restriccions i les recomanacions fetes per Protecció Civil de la Generalitat de Catalunya, totes les activitats previstes ... ... Font",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Cultura",
-      "title": "Comença el setembre amb una parella lingüística",
-      "source": "CCOO",
-      "date": "2026-09-08",
-      "url": "https://ccoo.cat/noticies/servei-linguistic/comenca-el-setembre-amb-una-parella-linguistica-2",
-      "text": "El setembre és el moment ideal per iniciar projectes clau com posar la pràctica del català al centre de les ... ... Font",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Treball",
-      "title": "CCOO aposta pel futur de la marca SEAT més enllà del 2030",
-      "source": "CCOO",
-      "date": "2026-09-08",
-      "url": "https://ccoo.cat/noticies/ccoo-aposta-pel-futur-de-la-marca-seat-mes-enlla-del-2030",
-      "text": "CCOO demana a les administracions públiques fer un front comú en defensa de SEAT, del teixit industrial i l’ocupació del ... ... Font",
       "issue": null,
       "parties": []
     },
@@ -4212,86 +3975,6 @@
       "parties": []
     },
     {
-      "topic": "Treball",
-      "title": "La Inspecció de Treball dona la raó a CCOO sobre el preavís de cinc dies en l’Atenció Domiciliària de Catalunya",
-      "source": "CCOO",
-      "date": "2026-09-07",
-      "url": "https://ccoo.cat/noticies/serveis-a-la-ciutadania/la-inspeccio-de-treball-dona-la-rao-a-ccoo-sobre-el-preavis-de-cinc-dies-en-latencio-domiciliaria-de-catalunya",
-      "text": "Una primera resolució favorable avala la interpretació defensada pel sindicat: els canvis d’horari o jornada s’han de comunicar amb un ... ... Font",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Educació",
-      "title": "11s – Diada Nacional de Catalunya 2026",
-      "source": "CCOO",
-      "date": "2026-09-07",
-      "url": "https://ccoo.cat/noticies/11s-diada-nacional-de-catalunya-2026",
-      "text": "Amb motiu de la Diada Nacional de Catalunya, CCOO de Catalunya organitza l’acte «El model d’escola catalana. Educació, llengua i ... ... Font",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Treball",
-      "title": "Tirar de la cadena o estirar de la cadena?",
-      "source": "CCOO",
-      "date": "2026-09-04",
-      "url": "https://ccoo.cat/noticies/servei-linguistic/tirar-de-la-cadena-o-estirar-de-la-cadena",
-      "text": "Tirar de la cadena o estirar de la cadena? Estirar de la cadenaPer expressar l’acció de fer força per portar ... ... Font",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Treball",
-      "title": "L’atur registrat s’incrementa a Catalunya en un mes tradicionalment dolent per a l’ocupació mentre avança el procés extraordinari de regularització",
-      "source": "CCOO",
-      "date": "2026-09-02",
-      "url": "https://ccoo.cat/noticies/latur-registrat-sincrementa-a-catalunya-en-un-mes-tradicionalment-dolent-per-a-locupacio-mentre-avanca-el-proces-extraordinari-de-regularitzacio",
-      "text": "CCOO reclama garanties en el finançament dels serveis públics d’ocupació per a garantir l’atenció sociolaboral derivada del procés de regularització ... ... Font",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Antiracisme",
-      "title": "CCOO de Catalunya rebutja i confronta l’odi cap a les persones migrants que l’extrema dreta atia arran de la crisi de Ceuta i demana responsabilitat per garantir els drets de tothom",
-      "source": "CCOO",
-      "date": "2026-09-02",
-      "url": "https://ccoo.cat/noticies/ccoo-de-catalunya-rebutja-i-confronta-lodi-cap-a-les-persones-migrants-que-lextrema-dreta-atia-arran-de-la-crisi-de-ceuta-i-demana-responsabilitat-per-garantir-els-drets-de-tothom",
-      "text": "CCOO de Catalunya condenem les accions de violència i odi contra les veïnes i veïns solidaris de Ceuta, així com ... ... Font",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Treball",
-      "title": "CCOO denuncia que Justícia redueix en 623.775 euros la licitació del Programa de Justícia Restaurativa",
-      "source": "CCOO",
-      "date": "2026-09-01",
-      "url": "https://ccoo.cat/noticies/ccoo-denuncia-que-justicia-redueix-en-623-775-euros-la-licitacio-del-programa-de-justicia-restaurativa",
-      "text": "El sindicat alerta que la reducció contradiu l’increment pressupostari del 50 % acordat pel Govern i manté una bretxa salarial ... ... Font",
-      "issue": "pressupostos-2026",
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
       "topic": "Cooperativisme",
       "title": "Formació sobre política de privacitat a les cooperatives d’habitatge i de consum",
       "source": "Habicoop",
@@ -4300,176 +3983,6 @@
       "text": "Coopdemà impartirà una sessió formativa sobre política de dades el dimarts 15 de setembre de 17.30 a 19 h online Sabeu quina mena de dades podeu demanar (i quines no) a una sòcia quan s’incorpora a la vostra cooperativa? Teniu dubtes sobre com gestionar les…",
       "issue": null,
       "parties": []
-    },
-    {
-      "topic": "Treball",
-      "title": "Addiccions en el treball",
-      "source": "CCOO",
-      "date": "2026-08-17",
-      "url": "https://ccoo.cat/noticies/salut-laboral/addiccions-en-el-treball",
-      "text": "Les addiccions no són problemes individuals. Són malalties complexes en què l’organització del treball i les condicions laborals poden ser-ne ... ... Font",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Treball",
-      "title": "Nota de condol Juan Ignacio Marín Arce",
-      "source": "CCOO",
-      "date": "2026-08-13",
-      "url": "https://ccoo.cat/noticies/nota-de-condol-juan-ignacio-marin-arce",
-      "text": "Amb profunda tristesa acomiadem Juan Ignacio Marín Arce (Madrid, 1950), una figura imprescindible en la història del sindicalisme i la ... ... Font",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Treball",
-      "title": "La Conferació Europea de Sindicats denuncia la reducció de més de 18.000 bombers a Europa",
-      "source": "CCOO",
-      "date": "2026-08-11",
-      "url": "https://ccoo.cat/noticies/ccoo-denuncia-la-reduccio-de-mes-de-18-000-bombers-a-europa-durant-lany-mes-destructiu-dincendis-forestals",
-      "text": "La Confederació, de la qual forma part CCOO, assenyala que les polítiques d’austeritat de la Comissió Europea posen en perill ... ... Font",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Treball",
-      "title": "CCOO reclama més recursos públics per a garantir una atenció adequada de l’atenció sociolaboral derivada del procés extraordinari de regularització",
-      "source": "CCOO",
-      "date": "2026-08-04",
-      "url": "https://ccoo.cat/noticies/ccoo-reclama-mes-recursos-publics-per-a-garantir-una-atencio-adequada-de-latencio-sociolaboral-derivada-de-proces-extraordinari-de-regularitzacio",
-      "text": "L’atur registrat continua descendint en termes interanuals però mostrant una evident desacceleració Les dades de l’atur registrat corresponents al mes ... ... Font",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Treball",
-      "title": "CCOO davant els fets esdevinguts a Ceuta",
-      "source": "CCOO",
-      "date": "2026-08-03",
-      "url": "https://ccoo.cat/noticies/ccoo-davant-els-fets-esdevinguts-a-ceuta",
-      "text": "Després d’uns dies de tensió i quan la situació a la Ciutat Autònoma de Ceuta ha recuperat una certa normalitat, ... ... Font",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Treball",
-      "title": "CCOO convoca vaga a l’estacionament regulat tots els dissabtes i diumenges des del 8 d’agost",
-      "source": "CCOO",
-      "date": "2026-08-03",
-      "url": "https://ccoo.cat/noticies/serveis-a-la-ciutadania/ccoo-convoca-vaga-a-lestacionament-regulat-tots-els-dissabtes-des-del-8-dagost",
-      "text": "La Secció Sindical de CCOO a Barcelona de Serveis Municipals (BSM) ha registrat formalment la convocatòria de vaga per al ... ... Font",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Treball",
-      "title": "CCOO denuncia l’increment alarmant dels accidents de treball",
-      "source": "CCOO",
-      "date": "2026-08-03",
-      "url": "https://ccoo.cat/noticies/ccoo-denuncia-lincrement-alarmant-dels-accidents-de-treball",
-      "text": "Segons les dades publicades per l’Observatori del Treball i Model Productiu de la Generalitat, entre gener i juny de 2026, ... ... Font",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Política",
-      "title": "CCOO reclama l’aprovació de la Llei contra el Tràfic de Persones",
-      "source": "CCOO",
-      "date": "2026-07-30",
-      "url": "https://ccoo.cat/noticies/politica-internacional/ccoo-reclama-laprovacio-de-la-llei-contra-el-trafic",
-      "text": "La norma, que resulta imprescindible per a regular el tràfic i l’explotació d’éssers humans des d’una perspectiva integral, ve sofrint ... ... Font",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Treball",
-      "title": "CCOO del sector de Carretera i Logística no signarà el conveni de mercaderies de la província de Girona",
-      "source": "CCOO",
-      "date": "2026-07-29",
-      "url": "https://ccoo.cat/noticies/ccoo-del-sector-de-carretera-i-logistica-no-signara-el-conveni-de-mercaderies-de-la-provincia-de-girona",
-      "text": "Després que la UGT i la patronal no hagin tingut en compte a CCOO a les negociacions d’adequació del redactat ... ... Font",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Mobilitat",
-      "title": "CCOO lamenta l’accident mortal d’aquest matí a la mina de Súria d’ICL Iberia",
-      "source": "CCOO",
-      "date": "2026-07-29",
-      "url": "https://ccoo.cat/noticies/industria/ccoo-lamenta-laccident-mortal-daquest-mati-a-la-mina-de-suria-dicl-iberia",
-      "text": "CCOO d’Indústria de Catalunya lamenta profundament l’accident mortal que ha tingut lloc aquest matí a la mina de potassa de ... ... Font",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Treball",
-      "title": "CCOO alerta que cada setmana a Catalunya es fan 486.000 hores extres no remunerades",
-      "source": "CCOO",
-      "date": "2026-07-29",
-      "url": "https://ccoo.cat/noticies/ccoo-alerta-que-cada-setmana-a-catalunya-es-fan-486-000-hores-extres-no-remunerades",
-      "text": "CCOO de Catalunya ha presentat avui l’informe sobre l’evolució de les hores extraordinàries a Catalunya, elaborat a partir de les ... ... Font",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Cultura",
-      "title": "Té diverses traduccions l’expressió castellana ‘no estar por la labor’?",
-      "source": "CCOO",
-      "date": "2026-07-29",
-      "url": "https://ccoo.cat/noticies/servei-linguistic/te-diverses-traduccions-lexpressio-castellana-no-estar-por-la-labor",
-      "text": "Té diverses traduccions l’expressió castellana ‘no estar por la labor’? Sí, unes quantes. No estar por la labor se sol ... ... Font",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Treball",
-      "title": "Canvis en les notificacions electròniques de laSeguretat Social a partir de l’1 de setembre del 2026",
-      "source": "CCOO",
-      "date": "2026-07-28",
-      "url": "https://ccoo.cat/noticies/salut-laboral/canvis-en-les-notificacions-electroniques-de-laseguretat-social-a-partir-de-l1-de-setembre-del-2026",
-      "text": "Ordre ISM/541/2026, de 27 de maig, per la qual es modifica l’Ordre ISM/903/2020, de 24 de setembre, per la qual ... ... Font",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Treball",
-      "title": "Catalunya assoleix el nivell d’ocupació més elevat de la seva història",
-      "source": "CCOO",
-      "date": "2026-07-28",
-      "url": "https://ccoo.cat/noticies/enportada/catalunya-assoleix-el-nivell-docupacio-mes-elevat-de-la-seva-historia",
-      "text": "La taxa d’atur descendeix i es situa al 7,9 %, dos punts per sota de la taxa pel conjunt de ... ... Font",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Treball",
-      "title": "CCOO reclama que s’acceleri la ratificació del conveni 189 de l’OIT",
-      "source": "CCOO",
-      "date": "2026-07-27",
-      "url": "https://ccoo.cat/noticies/ccoo-reclama-que-sacceleri-la-ratificacio-del-conveni-189-de-loit",
-      "text": "CCOO i UGT s’han dirigit en una carta a la Ministra de Treball i Economia Social per a demanar-li que ... ... Font",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
     },
     {
       "topic": "Aigua",
@@ -4497,162 +4010,12 @@
       "parties": []
     },
     {
-      "topic": "Política",
-      "title": "CCOO de Lleida aconsegueix el suport unànime dels alcaldes i alcaldesses de Lleida i l’Aragó per posar en funcionament la línia de Rodalies Lleida-Montsó",
-      "source": "CCOO",
-      "date": "2026-07-24",
-      "url": "https://ccoo.cat/noticies/ccoo-de-lleida-aconsegueix-el-suport-unanime-dels-alcaldes-i-alcaldesses-de-lleida-i-larago-per-posar-en-funcionament-la-linia-de-rodalies-lleida-montso",
-      "text": "El sindicat presenta un esborrany del projecte que han aprovat i consensuat tots els alcaldes i alcaldesses de la línia ... ... Font",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Treball",
-      "title": "Recull de convenis col·lectius i documentació de negociació col·lectiva (juny del 2026)",
-      "source": "CCOO",
-      "date": "2026-07-23",
-      "url": "https://ccoo.cat/noticies/recull-de-convenis-collectius-i-documentacio-de-negociacio-collectiva-juny-del-2026",
-      "text": "Aquest document inclou tots els convenis col·lectius publicats en diaris oficials, clàusules destacades de convenis i bibliografia Font",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Política",
-      "title": "CCOO celebra la candidatura de Yolanda Díaz a la Direcció General de l’OIT",
-      "source": "CCOO",
-      "date": "2026-07-23",
-      "url": "https://ccoo.cat/noticies/politica-internacional/ccoo-celebra-la-candidatura-de-yolanda-diaz-a-la-direccio-general-de-la-oit",
-      "text": "La candidatura de Díaz, avalada pel Govern espanyol, arriba en tempsmarcats per notícies poc falagueres per al multilateralisme en general ... ... Font",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Treball",
-      "title": "CCOO es mobilitza per denunciar les retallades salarials a l’Autoritat Portuària de Barcelona",
-      "source": "CCOO",
-      "date": "2026-07-23",
-      "url": "https://ccoo.cat/noticies/ccoo-es-mobilitza-per-denunciar-les-retallades-salarials-a-lautoritat-portuaria-de-barcelona",
-      "text": "Més de 200 treballadors i treballadores s’han manifestat per reclamar al Consell d’Administració que mediï amb les administracions pertinents per ... ... Font",
-      "issue": "pressupostos-2026",
-      "parties": []
-    },
-    {
-      "topic": "LGTBIQ+",
-      "title": "El comitè d’empresa d’Alstom Transporte es reuneix aquest dijous amb l’alcalde de Barcelona",
-      "source": "CCOO",
-      "date": "2026-07-22",
-      "url": "https://ccoo.cat/noticies/el-comite-dempresa-dalstom-transporte-es-reuneix-aquest-dijous-amb-lalcalde-de-barcelona",
-      "text": "La plantilla manté les jornades de vaga per reclamar el desbloqueig del conveni i no descarta convocar-ne de noves Aquest ... ... Font",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Salut",
-      "title": "CCOO alerta que la sobrecàrrega laboral i la manca de recursos posen en risc la salut de la plantilla de Forestal Catalana i la qualitat del servei públic",
-      "source": "CCOO",
-      "date": "2026-07-21",
-      "url": "https://ccoo.cat/noticies/ccoo-alerta-que-la-sobrecarrega-laboral-i-la-manca-de-recursos-posen-en-risc-la-salut-de-la-plantilla-de-forestal-catalana-i-la-qualitat-del-servei-public",
-      "text": "El sindicat denuncia la situació crítica dels Centres de Recuperació de Fauna i d’uns serveis de suport desbordats pel creixement ... ... Font",
-      "issue": null,
-      "parties": []
-    },
-    {
       "topic": "Habitatge",
       "title": "Set noves sòcies a Habicoop en el primer semestre de l’any",
       "source": "Habicoop",
       "date": "2026-07-21",
       "url": "https://habicoop.cat/set-noves-socies-a-habicoop-en-el-primer-semestre-de-lany",
       "text": "Una nova entitat membre a Habicoop sempre és motiu de celebració i aquest 2026 ha estat especialment destacat en aquest sentit: Set projectes i cooperatives d’habitatge s’han unit a la federació. Us expliquem breument qui són i on es troben. Ruderal És una…",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Treball",
-      "title": "CCOO es concentra pel desbloqueig de la negociació del II Conveni GERCAT",
-      "source": "CCOO",
-      "date": "2026-07-20",
-      "url": "https://ccoo.cat/noticies/ccoo-es-concentra-pel-desbloqueig-de-la-negociacio-del-ii-conveni-gercat",
-      "text": "La Federació de Sanitat de CCOO de Catalunya exigeix el desbloqueig de la negociació del II Conveni GERCAT que en ... ... Font",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Política",
-      "title": "El comitè d’Alstom Transporte es reuneix demà amb la Comissió d’Empresa i Treball del Parlament",
-      "source": "CCOO",
-      "date": "2026-07-20",
-      "url": "https://ccoo.cat/noticies/el-comite-dalstom-transporte-es-reuneix-dema-amb-la-comissio-dempresa-i-treball-del-parlament",
-      "text": "La plantilla d’Alstom Transporte es manté ferma en les seves reivindicacions i aquesta setmana tornarà a fer dues jornades de ... ... Font",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Treball",
-      "title": "CCOO anuncia mobilitzacions a l’Autoritat Portuària de Barcelona davant la possible retallada salarial",
-      "source": "CCOO",
-      "date": "2026-07-16",
-      "url": "https://ccoo.cat/noticies/ccoo-anuncia-mobilitzacions-a-lautoritat-portuaria-de-barcelona-davant-la-possible-retallada-salarial",
-      "text": "El comitè d’empresa de l’Autoritat Portuària de Barcelona preveu un calendari de mobilitzacions amb aturades i vagues. La convocatòria sorgeix ... ... Font",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Cultura",
-      "title": "Festa del Treball Digne + Working Class Festival",
-      "source": "CCOO",
-      "date": "2026-07-15",
-      "url": "https://ccoo.cat/noticies/festa-del-treball-digne-working-class",
-      "text": "El 3 d’octubre, CCOO celebra la Festa del Treball Digne + Working Class Festival, una jornada oberta amb música, cultura ... ... Font",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Treball",
-      "title": "CCOO reclama el desplegament de mesures públiques per a reduir la inflació",
-      "source": "CCOO",
-      "date": "2026-07-15",
-      "url": "https://ccoo.cat/noticies/ccoo-reclama-el-desplegament-de-mesures-publiques-per-a-reduir-la-inflacio",
-      "text": "Les dades de l’IPC corresponents al mes de juny continuen acusant l’impacte en el nivell de preus que està ocasionant ... ... Font",
-      "issue": null,
-      "parties": [
-        {
-          "party": "AC",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "topic": "Cultura",
-      "title": "‘A mode de’ és correcte en català?",
-      "source": "CCOO",
-      "date": "2026-07-15",
-      "url": "https://ccoo.cat/noticies/servei-linguistic/a-mode-de-es-correcte-en-catala",
-      "text": "‘A mode de’ és correcte en català? No Amb el significat de ‘com si fos alguna cosa’, es fa servir ... ... Font",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Treball",
-      "title": "CCOO llença una campanya de vigilància a tot Catalunya per garantir que s’apliquen les mesures contra la calor",
-      "source": "CCOO",
-      "date": "2026-07-14",
-      "url": "https://ccoo.cat/noticies/ccoo-llenca-una-campanya-de-vigilancia-a-tot-catalunya-per-garantir-que-sapliquen-les-mesures-contra-la-calor",
-      "text": "El sindicat presenta la campanya “Davant del sol, ombra, aigua freda i jornada reduïda” per protegir els sectors més exposats, ... ... Font",
-      "issue": null,
-      "parties": []
-    },
-    {
-      "topic": "Treball",
-      "title": "La plantilla d’Alstom Transporte fa vaga i es mobilitza a Mollet del Vallès pel desbloqueig del conveni",
-      "source": "CCOO",
-      "date": "2026-07-14",
-      "url": "https://ccoo.cat/noticies/la-plantilla-dalstom-transporte-fa-vaga-i-es-mobilitza-a-mollet-del-valles-pel-desbloqueig-del-conveni",
-      "text": "Aquest dimecres, 15 de juliol, la plantilla d’Alstom Transporte està convocada a una nova jornada de vaga de 6 hores, ... ... Font",
       "issue": null,
       "parties": []
     },
@@ -4679,6 +4042,21 @@
       "url": "https://habicoop.cat/cronica-de-la-uescoop-2026-lhabitatge-cooperatiu-i-els-reptes-tecnologics-al-centre-del-debat",
       "text": "L’edició 2026 de la Universitat d’Estiu del Cooperativisme (UESCOOP) es va celebrar els dies 1 i 2 de juliol a la Facultat d’Economia i Empresa de la Universitat de Barcelona, sota el lema «Cooperativisme actiu, pensament viu». Des d’Habicoop vam tenir…",
       "issue": null,
+      "parties": [
+        {
+          "party": "AC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "topic": "Treball",
+      "title": "El futur de l'estat del benestar: calen més treballadors de 55 a 64 anys",
+      "source": "Ara",
+      "date": "2026-07-01",
+      "url": "https://ara.cat/economia/macroeconomia/futur-l-benestar-calen-mes-treballadors-55-64-anys_1_5785094.html",
+      "text": "El 41% de la població espanyola aporta més a través d'impostos i taxes que el que rep en forma de prestacions. La proporció s'eleva al 68% entre els 25 i els 64 anys, l'etapa activa dels ciutadans, i cau per sota del 10% en els extrems del cicle vital, la…",
+      "issue": "pressupostos-2026",
       "parties": [
         {
           "party": "AC",
@@ -5295,19 +4673,19 @@
       "name": "VilaWeb",
       "url": "https://www.vilaweb.cat/feed",
       "ok": true,
-      "items": 24
+      "items": 22
     },
     {
       "name": "Ara",
       "url": "https://www.ara.cat/rss",
       "ok": true,
-      "items": 130
+      "items": 127
     },
     {
       "name": "La Vanguardia",
       "url": "https://www.lavanguardia.com/rss/home.xml",
       "ok": true,
-      "items": 151
+      "items": 126
     },
     {
       "name": "La Vanguardia · Política",
@@ -5319,7 +4697,7 @@
       "name": "La Vanguardia · Economia",
       "url": "https://www.lavanguardia.com/rss/economia.xml",
       "ok": true,
-      "items": 98
+      "items": 97
     },
     {
       "name": "La Vanguardia · Barcelona",
@@ -5372,8 +4750,9 @@
     {
       "name": "CCOO",
       "url": "https://www.ccoo.cat/rss",
-      "ok": true,
-      "items": 48
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 403"
     },
     {
       "name": "UGT",
@@ -5397,7 +4776,7 @@
       "name": "El Objective",
       "url": "https://www.theobjective.com/feed/",
       "ok": true,
-      "items": 20
+      "items": 18
     },
     {
       "name": "EuroNews",
@@ -5406,7 +4785,7 @@
       "items": 50
     }
   ],
-  "updatedAt": "2026-09-25T18:51:02.842Z",
+  "updatedAt": "2026-09-26T06:15:50.719Z",
   "mode": "exhaustive",
   "limits": {
     "maxItems": 600,
